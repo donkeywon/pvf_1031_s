@@ -136,7 +136,7 @@
 	[on die]
 		`呀！ 救命！`	100
 	[on attack]
-		`买新车罗~`	50	0
+		`买新车啰~`	50	0
 	[on attack]
 		`等等！`	50	2
 [/speech on situation]
