@@ -1,8 +1,7 @@
 function Common_drawCustomUI(obj) {
-    drawTrainingroomMainUi(obj);   // 修炼场
-    drawNewStyleComboUi(obj);   // 技能冷却时间
-    DrawMonsterBloodUI(obj);   // 怪物血条
-    DrawMonsterUI(obj);  // 怪物异常状态
+    drawNewStyleComboUi(obj); // 技能冷却时间
+    DrawMonsterBloodUI(obj); // 怪物血条
+    DrawMonsterUI(obj); // 怪物异常状态
 }
 
 function drawCustomUI_Swordman(obj) {

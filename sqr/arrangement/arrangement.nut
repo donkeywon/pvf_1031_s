@@ -1,3 +1,4 @@
+sq_RunScript("character/common/monsterblood.nut");
 
 sq_RunScript("arrangement/drawcustomui.nut");
 sq_RunScript("arrangement/drawmaincustomui.nut");

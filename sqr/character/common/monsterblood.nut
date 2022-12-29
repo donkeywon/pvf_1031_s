@@ -1,27 +1,31 @@
+function procAppend_MonsterBlood(obj) {
+    local skill_level = sq_GetSkillLevel(obj, 174);
+    if (skill_level > 0) {
+        if (!CNSquirrelAppendage.sq_IsAppendAppendage(obj, "appendage/character/ap_monsterblood.nut")) {
+            local appendage = CNSquirrelAppendage.sq_AppendAppendage(obj, obj, 174, false, "appendage/character/ap_monsterblood.nut", true);
+        }
+    }
+}
+
 function DrawMonsterBloodUI(obj) {
     local appendage = obj.GetSquirrelAppendage("appendage/character/ap_monsterblood.nut");
-	local target = appendage.getVar("damager").get_vector(1);
-	local object = sq_GetObjectByObjectId(obj, target);
-	object = sq_GetCNRDObjectToActiveObject(object);
-	local maxhp = object.getHpMax();
-	local currhp = object.getHp();
-	if(appendage.getVar("damager").get_vector(0) == 0)
-	{
-		DrawMosterBlood_NUMBER(obj, 0, 0, currhp, maxhp);
-		if(sq_IsBoss(object))
-		{
-			DrawMosterBOSSBlood_Striker(obj, 0, 0, currhp, maxhp);
-		} else if (sq_IsNamed(object))
-		{
-			DrawMosterEliteBlood_Striker(obj, 0, 0, currhp, maxhp);
-		} else if (sq_IsAiCharacter(object))
-		{
-			DrawMosterAIBlood_Striker(obj, 0, 0, currhp, maxhp);
-		} else if (!sq_IsAiCharacter(object) && !sq_IsAiCharacter(object) && !sq_IsBoss(object) )
-		{
-			DrawMosterNormalBlood_Striker(obj, 0, 0, currhp, maxhp);
-		}
-	}
+    local target = appendage.getVar("damager").get_vector(1);
+    local object = sq_GetObjectByObjectId(obj, target);
+    object = sq_GetCNRDObjectToActiveObject(object);
+    local maxhp = object.getHpMax();
+    local currhp = object.getHp();
+    if (appendage.getVar("damager").get_vector(0) == 0) {
+        DrawMosterBlood_NUMBER(obj, 0, 0, currhp, maxhp);
+        if (sq_IsBoss(object)) {
+            DrawMosterBOSSBlood_Striker(obj, 0, 0, currhp, maxhp);
+        } else if (sq_IsNamed(object)) {
+            DrawMosterEliteBlood_Striker(obj, 0, 0, currhp, maxhp);
+        } else if (sq_IsAiCharacter(object)) {
+            DrawMosterAIBlood_Striker(obj, 0, 0, currhp, maxhp);
+        } else if (!sq_IsAiCharacter(object) && !sq_IsAiCharacter(object) && !sq_IsBoss(object)) {
+            DrawMosterNormalBlood_Striker(obj, 0, 0, currhp, maxhp);
+        }
+    }
 }
 
 function DrawMosterNormalBlood_Striker(obj, xPos, yPos, CurrHp, MaxHp) {
