@@ -1,0 +1,30 @@
+#PVF_File
+
+[MOTION]
+	[BASE ANI]
+		`../animation/default.ani`
+[/MOTION]
+
+[TRIGGER]
+	[FRAME]
+		0	0
+	[DO BEHAVIOR]
+	[ME]
+		0
+[/TRIGGER]
+
+[BEHAVIOR]
+	[SUMMON APC]
+		[INDEX]
+			9995
+		[LEVEL]
+			100
+		[POS]
+			50	0	0
+		[NO EFFECT]
+		[TEAM]
+			0
+		[SUMMON MARK]
+			1
+	[/SUMMON APC]
+[/BEHAVIOR]

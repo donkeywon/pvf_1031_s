@@ -1,0 +1,24 @@
+#PVF_File
+
+[name]
+	`召唤APC`
+
+[floating height]
+	1
+
+[layer]
+	`[normal]`
+
+[pass type]
+	`[pass all]`
+
+[piercing power]
+	1000
+
+[basic action]
+	`action/summer_apc.act`
+
+[object destroy condition]
+	`[destroy condition]`
+	`[time limite]`	400
+[/object destroy condition]
