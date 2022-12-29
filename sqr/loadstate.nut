@@ -8,8 +8,6 @@ sq_RunScript("Character/common_load_state.nut");
 
 dofile("chang_qing_nuts/main_monsterstats.nut");
 
-sq_RunScript("ui/main.nut");
-
 sq_RunScript("character/common/shoucuo.nut");
 sq_RunScript("character/common/damagerate.nut");
 
