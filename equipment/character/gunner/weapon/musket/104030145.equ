@@ -98,7 +98,7 @@
 	`Item/field_weapon1.img`	3
 
 [icon mark]
-	`Item/IconMark1.img`	6
+	`Item/IconMark.img`	68
 
 [equipment type]
 	`[weapon]`	24
