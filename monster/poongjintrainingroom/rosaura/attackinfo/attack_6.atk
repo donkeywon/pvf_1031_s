@@ -1,0 +1,35 @@
+#PVF_File
+
+[absolute damage]
+	4200
+
+[attack type]
+
+[magic]
+
+[attack enemy]
+	1
+
+[elemental property]
+
+[no element]
+
+[damage reaction]
+
+[down]
+
+[stuck]
+	-1000
+
+[lift up]
+	200
+
+[hit wav]
+	`R_SHOCKWAVE_HIT`
+
+[hit info]
+
+[blow]
+
+[no blood]
+	50	1.0
