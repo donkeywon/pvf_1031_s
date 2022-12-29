@@ -1,19 +1,16 @@
 #PVF_File
 
 [name]
-	``
-
-[name2]
-	``
+	`DNF宝物罐`
 
 [explain]
-	``
+	`可抽取各种商城物品、神圣装备合成器、材料罐、SS罐子、强化12、升级券等`
 
 [grade]
 	1
 
 [attach type]
-	`[free]`
+	`[trade]`
 
 [rarity]
 	1
@@ -26,7 +23,7 @@
 	1
 
 [stack limit]
-	1
+	1000
 
 [icon]
 	`Item/stackable/consumption.img`	776
