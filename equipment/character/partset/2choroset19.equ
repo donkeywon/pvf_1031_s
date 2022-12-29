@@ -4,7 +4,7 @@
 	`光之助力  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[fighter]`	8	`[dungeon type]`	`[cooltime]`	0	`+`	-3000
 		`[fighter]`	8	`[dungeon type]`	`[level]`	0	`+`	4
@@ -23,7 +23,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[fighter]`	69	`[dungeon type]`	`[static]`	0	`%`	80
 		`[fighter]`	69	`[dungeon type]`	`[level]`	0	`%`	20
@@ -36,7 +36,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[fighter]`	42	`[dungeon type]`	`[cooltime]`	0	`+`	-9000
 		`[fighter]`	42	`[dungeon type]`	`[level]`	1	`%`	20

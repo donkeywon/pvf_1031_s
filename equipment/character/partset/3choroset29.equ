@@ -4,7 +4,7 @@
 	`蜘蛛之王  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[theif]`	55	`[dungeon type]`	`[cooltime]`	0	`%`	-30
 	[/skill data up]
@@ -13,7 +13,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[theif]`	77	`[dungeon type]`	`[cooltime]`	0	`%`	-30
 		`[theif]`	77	`[dungeon type]`	`[level]`	0	`%`	30
@@ -29,7 +29,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[theif]`	53	`[dungeon type]`	`[level]`	4	`+`	5000
 		`[theif]`	53	`[dungeon type]`	`[level]`	2	`%`	30

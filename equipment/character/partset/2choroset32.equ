@@ -4,7 +4,7 @@
 	`爆裂的信徒  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[gunner]`	72	`[dungeon type]`	`[cooltime]`	0	`+`	-6000
 		`[gunner]`	72	`[dungeon type]`	`[static]`	1	`%`	17
@@ -26,7 +26,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[gunner]`	9	`[dungeon type]`	`[cooltime]`	0	`+`	-6000
 		`[gunner]`	9	`[dungeon type]`	`[static]`	4	`+`	50
@@ -58,7 +58,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[gunner]`	51	`[dungeon type]`	`[cooltime]`	0	`+`	-13500
 		`[gunner]`	51	`[dungeon type]`	`[static]`	14	`%`	10

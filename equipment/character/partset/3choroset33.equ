@@ -4,7 +4,7 @@
 	`夺魄之焰  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[gunner]`	5	`[dungeon type]`	`[cooltime]`	0	`+`	-1000
 		`[gunner]`	5	`[dungeon type]`	`[level]`	0	`%`	10
@@ -28,7 +28,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[gunner]`	5	`[dungeon type]`	`[cooltime]`	0	`+`	-1000
 		`[gunner]`	5	`[dungeon type]`	`[level]`	0	`%`	20
@@ -50,7 +50,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[gunner]`	51	`[dungeon type]`	`[cooltime]`	0	`%`	-60
 		`[gunner]`	51	`[dungeon type]`	`[static]`	20	`+`	2

@@ -4,7 +4,7 @@
 	`暗影之怒  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[swordman]`	51	`[dungeon type]`	`[static]`	0	`%`	-50
 		`[swordman]`	51	`[dungeon type]`	`[static]`	1	`+`	20
@@ -19,7 +19,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[swordman]`	2	`[dungeon type]`	`[static]`	1	`+`	-45
 		`[swordman]`	2	`[dungeon type]`	`[static]`	2	`+`	4
@@ -40,7 +40,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[swordman]`	57	`[dungeon type]`	`[cooltime]`	0	`+`	-6000
 		`[swordman]`	57	`[dungeon type]`	`[static]`	2	`+`	1

@@ -4,7 +4,7 @@
 	`歼灭突击  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[gunner]`	73	`[dungeon type]`	`[cooltime]`	0	`+`	-1500
 		`[gunner]`	73	`[dungeon type]`	`[static]`	0	`%`	60
@@ -34,7 +34,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[gunner]`	45	`[dungeon type]`	`[cooltime]`	0	`+`	-6000
 		`[gunner]`	45	`[dungeon type]`	`[level]`	5	`%`	30
@@ -64,7 +64,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[gunner]`	71	`[dungeon type]`	`[cooltime]`	0	`+`	-13500
 		`[gunner]`	71	`[dungeon type]`	`[static]`	6	`%`	20

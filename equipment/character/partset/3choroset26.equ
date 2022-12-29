@@ -4,7 +4,7 @@
 	`永恒之袭  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[theif]`	16	`[dungeon type]`	`[level]`	0	`%`	30
 		`[theif]`	16	`[dungeon type]`	`[level]`	1	`%`	30
@@ -17,7 +17,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[theif]`	41	`[dungeon type]`	`[cooltime]`	0	`%`	-30
 		`[theif]`	41	`[dungeon type]`	`[level]`	0	`%`	30
@@ -32,7 +32,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[theif]`	31	`[dungeon type]`	`[static]`	2	`+`	10
 		`[theif]`	31	`[dungeon type]`	`[level]`	0	`%`	-20

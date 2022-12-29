@@ -4,7 +4,7 @@
 	`和谐精灵  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[mage]`	21	`[dungeon type]`	`[level]`	4	`%`	-20
 		`[mage]`	21	`[dungeon type]`	`[level]`	5	`%`	-20
@@ -24,7 +24,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[mage]`	79	`[dungeon type]`	`[level]`	4	`%`	-25
 		`[mage]`	79	`[dungeon type]`	`[level]`	5	`%`	-25
@@ -48,7 +48,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[mage]`	47	`[dungeon type]`	`[level]`	2	`+`	1
 		`[mage]`	47	`[dungeon type]`	`[level]`	3	`+`	-100000

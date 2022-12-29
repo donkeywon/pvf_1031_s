@@ -4,7 +4,7 @@
 	`苍鹰之眸  套装`
 
 [piece set ability]
-	3	
+	3
 	[physical critical hit]
 		10
 	[skill data up]
@@ -19,7 +19,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[attack speed]
 		50
 	[skill data up]
@@ -41,7 +41,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[stuck]
 		-3
 	[skill data up]

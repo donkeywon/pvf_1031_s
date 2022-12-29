@@ -4,7 +4,7 @@
 	`速射重炮  套装`
 
 [piece set ability]
-	3	
+	3
 	[move speed]
 		30
 	[skill data up]
@@ -25,7 +25,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[attack speed]
 		50
 	[skill data up]
@@ -64,7 +64,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[stuck]
 		-5
 	[skill data up]

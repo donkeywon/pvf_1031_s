@@ -4,7 +4,7 @@
 	`绝界之主  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[mage]`	99	`[dungeon type]`	`[cooltime]`	0	`+`	-3000
 		`[mage]`	99	`[dungeon type]`	`[static]`	13	`%`	-10
@@ -22,7 +22,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[mage]`	95	`[dungeon type]`	`[level]`	0	`%`	20
 		`[mage]`	95	`[dungeon type]`	`[level]`	8	`%`	20
@@ -48,7 +48,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[mage]`	115	`[dungeon type]`	`[cooltime]`	0	`%`	-50
 		`[mage]`	115	`[dungeon type]`	`[level]`	0	`%`	10

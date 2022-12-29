@@ -4,7 +4,7 @@
 	`虚空之怒波  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[swordman]`	52	`[dungeon type]`	`[level]`	1	`%`	20
 		`[swordman]`	58	`[dungeon type]`	`[cooltime]`	0	`%`	-20
@@ -15,7 +15,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[swordman]`	50	`[dungeon type]`	`[level]`	1	`%`	30
 		`[swordman]`	50	`[dungeon type]`	`[cooltime]`	0	`%`	-30
@@ -30,7 +30,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[swordman]`	74	`[dungeon type]`	`[static]`	1	`%`	-50
 		`[swordman]`	74	`[dungeon type]`	`[static]`	4	`%`	30

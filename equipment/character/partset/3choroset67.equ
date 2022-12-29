@@ -4,7 +4,7 @@
 	`末日之殇  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[priest]`	117	`[dungeon type]`	`[level]`	0	`%`	30
 		`[priest]`	117	`[dungeon type]`	`[level]`	1	`%`	30
@@ -16,7 +16,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[priest]`	125	`[dungeon type]`	`[level]`	0	`%`	20
 		`[priest]`	125	`[dungeon type]`	`[level]`	1	`+`	6
@@ -35,7 +35,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[priest]`	133	`[dungeon type]`	`[static]`	1	`+`	5
 		`[priest]`	134	`[dungeon type]`	`[level]`	0	`%`	45

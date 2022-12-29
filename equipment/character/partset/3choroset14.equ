@@ -4,7 +4,7 @@
 	`念气之涌  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[fighter]`	12	`[dungeon type]`	`[level]`	1	`%`	30
 		`[at fighter]`	12	`[dungeon type]`	`[level]`	1	`%`	30
@@ -16,7 +16,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[fighter]`	12	`[dungeon type]`	`[level]`	4	`%`	30
 		`[fighter]`	16	`[dungeon type]`	`[level]`	0	`%`	30
@@ -43,7 +43,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[fighter]`	90	`[dungeon type]`	`[level]`	4	`%`	30
 		`[fighter]`	90	`[dungeon type]`	`[level]`	0	`%`	40

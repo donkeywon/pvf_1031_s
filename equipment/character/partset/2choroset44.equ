@@ -4,7 +4,7 @@
 	`无尽之阿斯兰  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[mage]`	16	`[dungeon type]`	`[cooltime]`	0	`+`	-300
 		`[mage]`	16	`[dungeon type]`	`[static]`	5	`%`	-50
@@ -19,7 +19,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[mage]`	57	`[dungeon type]`	`[cooltime]`	0	`+`	-2100
 		`[mage]`	57	`[dungeon type]`	`[level]`	0	`%`	5
@@ -36,7 +36,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[mage]`	27	`[dungeon type]`	`[cooltime]`	0	`+`	-4500
 		`[mage]`	27	`[dungeon type]`	`[static]`	0	`%`	-50

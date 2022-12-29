@@ -4,7 +4,7 @@
 	`深渊蚀骨  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[gunner]`	27	`[dungeon type]`	`[level]`	1	`%`	25
 		`[gunner]`	27	`[dungeon type]`	`[level]`	3	`%`	25
@@ -22,7 +22,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[gunner]`	27	`[dungeon type]`	`[cooltime]`	0	`%`	-30
 		`[gunner]`	27	`[dungeon type]`	`[level]`	0	`+`	3
@@ -44,7 +44,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[gunner]`	63	`[dungeon type]`	`[cooltime]`	0	`%`	-35
 		`[gunner]`	63	`[dungeon type]`	`[static]`	1	`+`	1

@@ -4,7 +4,7 @@
 	`大地支配者  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[priest]`	39	`[dungeon type]`	`[static]`	1	`%`	20
 		`[priest]`	70	`[dungeon type]`	`[cooltime]`	0	`+`	-1000
@@ -19,7 +19,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[priest]`	70	`[dungeon type]`	`[level]`	0	`+`	5000
 		`[priest]`	70	`[dungeon type]`	`[static]`	10	`+`	-400
@@ -43,7 +43,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[priest]`	40	`[dungeon type]`	`[cooltime]`	0	`+`	-3000
 		`[priest]`	40	`[dungeon type]`	`[level]`	2	`+`	1

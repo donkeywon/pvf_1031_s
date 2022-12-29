@@ -4,7 +4,7 @@
 	`西林的念气增幅  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[fighter]`	12	`[dungeon type]`	`[cooltime]`	0	`+`	-300
 		`[fighter]`	12	`[dungeon type]`	`[static]`	0	`+`	-150
@@ -27,7 +27,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[fighter]`	12	`[dungeon type]`	`[cooltime]`	0	`+`	-200
 		`[fighter]`	12	`[dungeon type]`	`[static]`	0	`+`	-100
@@ -55,7 +55,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[fighter]`	12	`[dungeon type]`	`[cooltime]`	0	`+`	-100
 		`[at fighter]`	12	`[dungeon type]`	`[cooltime]`	0	`+`	-500

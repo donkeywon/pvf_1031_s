@@ -4,7 +4,7 @@
 	`波动之辐  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[swordman]`	15	`[dungeon type]`	`[level]`	4	`%`	50
 		`[swordman]`	108	`[dungeon type]`	`[level]`	3	`%`	30
@@ -14,7 +14,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[jump power]
 		50
 	[skill data up]
@@ -35,7 +35,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[swordman]`	15	`[dungeon type]`	`[level]`	3	`%`	70
 		`[swordman]`	15	`[dungeon type]`	`[level]`	8	`%`	70

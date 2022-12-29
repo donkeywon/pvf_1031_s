@@ -4,7 +4,7 @@
 	`复仇的邪念  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[thief]`	35	`[dungeon type]`	`[level]`	2	`%`	10
 		`[thief]`	35	`[dungeon type]`	`[level]`	3	`%`	20
@@ -23,7 +23,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[thief]`	37	`[dungeon type]`	`[level]`	5	`%`	25
 		`[thief]`	37	`[dungeon type]`	`[level]`	6	`%`	25
@@ -45,7 +45,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[thief]`	40	`[dungeon type]`	`[cooltime]`	0	`+`	-13500
 		`[thief]`	40	`[dungeon type]`	`[level]`	0	`%`	30

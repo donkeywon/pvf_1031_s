@@ -4,7 +4,7 @@
 	`碎片守护者  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[gunner]`	12	`[dungeon type]`	`[static]`	3	`+`	40
 		`[gunner]`	12	`[dungeon type]`	`[level]`	0	`%`	10
@@ -31,7 +31,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[gunner]`	75	`[dungeon type]`	`[cooltime]`	3	`%`	-30
 		`[gunner]`	75	`[dungeon type]`	`[level]`	2	`%`	-20
@@ -63,7 +63,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[gunner]`	62	`[dungeon type]`	`[level]`	1	`+`	200
 		`[gunner]`	62	`[dungeon type]`	`[level]`	2	`+`	11

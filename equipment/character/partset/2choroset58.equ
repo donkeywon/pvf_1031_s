@@ -4,7 +4,7 @@
 	`无限风暴  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[thief]`	3	`[dungeon type]`	`[level]`	0	`%`	25
 		`[thief]`	3	`[dungeon type]`	`[level]`	1	`%`	25
@@ -21,7 +21,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[thief]`	19	`[dungeon type]`	`[static]`	0	`%`	10
 		`[thief]`	19	`[dungeon type]`	`[static]`	2	`%`	10
@@ -41,7 +41,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[thief]`	34	`[dungeon type]`	`[cooltime]`	0	`+`	-7500
 		`[thief]`	34	`[dungeon type]`	`[level]`	0	`%`	30

@@ -4,7 +4,7 @@
 	`雷霆之啸  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[fighter]`	40	`[dungeon type]`	`[level]`	0	`%`	30
 		`[at fighter]`	40	`[dungeon type]`	`[level]`	0	`%`	30
@@ -14,7 +14,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[fighter]`	16	`[dungeon type]`	`[level]`	0	`%`	15
 		`[fighter]`	16	`[dungeon type]`	`[cooltime]`	0	`%`	-30
@@ -33,7 +33,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[fighter]`	79	`[dungeon type]`	`[level]`	0	`%`	50
 		`[fighter]`	79	`[dungeon type]`	`[level]`	1	`%`	50

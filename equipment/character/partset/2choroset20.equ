@@ -4,7 +4,7 @@
 	`分而治之  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[fighter]`	6	`[dungeon type]`	`[static]`	0	`%`	10
 		`[fighter]`	6	`[dungeon type]`	`[level]`	1	`%`	20
@@ -32,7 +32,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[fighter]`	4	`[dungeon type]`	`[cooltime]`	0	`+`	-2000
 		`[fighter]`	4	`[dungeon type]`	`[static]`	0	`%`	10
@@ -55,7 +55,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[fighter]`	84	`[dungeon type]`	`[level]`	0	`%`	30
 		`[fighter]`	84	`[dungeon type]`	`[level]`	1	`%`	30

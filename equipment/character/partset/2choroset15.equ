@@ -4,7 +4,7 @@
 	`领域支配者  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[swordman]`	25	`[dungeon type]`	`[static]`	1	`%`	30
 		`[swordman]`	25	`[dungeon type]`	`[level]`	0	`+`	30
@@ -21,7 +21,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[swordman]`	75	`[dungeon type]`	`[cooltime]`	0	`+`	-9000
 		`[swordman]`	75	`[dungeon type]`	`[static]`	6	`%`	30
@@ -53,7 +53,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[swordman]`	36	`[dungeon type]`	`[cooltime]`	0	`+`	-6000
 		`[swordman]`	36	`[dungeon type]`	`[static]`	1	`%`	30

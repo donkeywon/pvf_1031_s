@@ -4,7 +4,7 @@
 	`泯灭之信任  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[mage]`	21	`[dungeon type]`	`[cooltime]`	0	`+`	-1000
 		`[mage]`	22	`[dungeon type]`	`[cooltime]`	0	`+`	-1000
@@ -24,7 +24,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[mage]`	51	`[dungeon type]`	`[level]`	1	`%`	10
 		`[mage]`	52	`[dungeon type]`	`[level]`	1	`%`	10
@@ -54,7 +54,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[mage]`	49	`[dungeon type]`	`[cooltime]`	0	`+`	-3700
 		`[mage]`	51	`[dungeon type]`	`[level]`	0	`%`	10

@@ -4,7 +4,7 @@
 	`野马哈格勒  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[priest]`	56	`[dungeon type]`	`[cooltime]`	0	`+`	500
 		`[priest]`	56	`[dungeon type]`	`[level]`	0	`%`	30
@@ -21,7 +21,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[priest]`	31	`[dungeon type]`	`[cooltime]`	0	`+`	-600
 		`[priest]`	31	`[dungeon type]`	`[level]`	0	`%`	25
@@ -44,7 +44,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[priest]`	75	`[dungeon type]`	`[cooltime]`	0	`+`	-6000
 		`[priest]`	75	`[dungeon type]`	`[level]`	0	`%`	40

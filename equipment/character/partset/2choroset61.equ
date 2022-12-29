@@ -4,7 +4,7 @@
 	`地狱蛛丝  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[thief]`	51	`[dungeon type]`	`[level]`	0	`%`	10
 		`[thief]`	51	`[dungeon type]`	`[level]`	2	`%`	25
@@ -26,7 +26,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[thief]`	37	`[dungeon type]`	`[level]`	5	`%`	30
 		`[thief]`	37	`[dungeon type]`	`[level]`	6	`%`	30
@@ -54,7 +54,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[thief]`	55	`[dungeon type]`	`[level]`	0	`%`	25
 		`[thief]`	55	`[dungeon type]`	`[level]`	1	`%`	25

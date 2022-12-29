@@ -4,7 +4,7 @@
 	`血之泛滥  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[swordman]`	65	`[dungeon type]`	`[level]`	2	`+`	100
 		`[swordman]`	65	`[dungeon type]`	`[level]`	3	`+`	6
@@ -22,7 +22,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[swordman]`	79	`[dungeon type]`	`[level]`	3	`+`	6
 		`[swordman]`	79	`[dungeon type]`	`[level]`	5	`%`	200
@@ -52,7 +52,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[swordman]`	76	`[dungeon type]`	`[level]`	5	`+`	100
 		`[swordman]`	76	`[dungeon type]`	`[level]`	6	`+`	6

@@ -4,7 +4,7 @@
 	`绝地突袭  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[fighter]`	80	`[dungeon type]`	`[level]`	0	`%`	30
 		`[fighter]`	80	`[dungeon type]`	`[level]`	6	`%`	30
@@ -22,7 +22,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[fighter]`	80	`[dungeon type]`	`[cooltime]`	0	`%`	-30
 		`[fighter]`	80	`[dungeon type]`	`[level]`	1	`%`	30
@@ -68,7 +68,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[fighter]`	102	`[dungeon type]`	`[cooltime]`	0	`%`	-40
 		`[fighter]`	102	`[dungeon type]`	`[level]`	1	`%`	100

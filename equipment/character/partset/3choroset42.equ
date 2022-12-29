@@ -4,7 +4,7 @@
 	`混沌之源  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[gunner]`	57	`[dungeon type]`	`[level]`	1	`%`	10
 		`[gunner]`	57	`[dungeon type]`	`[static]`	0	`+`	1
@@ -27,7 +27,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[gunner]`	58	`[dungeon type]`	`[static]`	0	`+`	2
 		`[gunner]`	58	`[dungeon type]`	`[level]`	0	`%`	20
@@ -53,7 +53,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[gunner]`	102	`[dungeon type]`	`[cooltime]`	0	`%`	-60
 		`[gunner]`	102	`[dungeon type]`	`[static]`	3	`+`	1

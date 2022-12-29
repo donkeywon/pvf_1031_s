@@ -4,7 +4,7 @@
 	`厄运之忆  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[swordman]`	79	`[dungeon type]`	`[cooltime]`	0	`%`	-50
 		`[swordman]`	79	`[dungeon type]`	`[mp]`	0	`%`	-50
@@ -23,7 +23,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[swordman]`	40	`[dungeon type]`	`[level]`	5	`+`	70
 		`[swordman]`	40	`[dungeon type]`	`[level]`	6	`+`	70
@@ -42,7 +42,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[swordman]`	81	`[dungeon type]`	`[cooltime]`	0	`%`	-50
 		`[swordman]`	81	`[dungeon type]`	`[static]`	1	`%`	100

@@ -4,7 +4,7 @@
 	`机密突击队  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[gunner]`	76	`[dungeon type]`	`[level]`	0	`%`	20
 		`[gunner]`	76	`[dungeon type]`	`[static]`	2	`%`	40
@@ -26,7 +26,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[gunner]`	53	`[dungeon type]`	`[cooltime]`	0	`+`	-9000
 		`[gunner]`	53	`[dungeon type]`	`[static]`	3	`%`	20
@@ -54,7 +54,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[gunner]`	78	`[dungeon type]`	`[cooltime]`	0	`+`	-15000
 		`[gunner]`	78	`[dungeon type]`	`[level]`	0	`%`	25

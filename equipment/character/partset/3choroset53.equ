@@ -4,7 +4,7 @@
 	`元素增幅  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[mage]`	38	`[dungeon type]`	`[level]`	0	`%`	20
 		`[mage]`	27	`[dungeon type]`	`[cooltime]`	0	`%`	-15
@@ -17,7 +17,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[mage]`	61	`[dungeon type]`	`[level]`	1	`%`	40
 		`[mage]`	62	`[dungeon type]`	`[level]`	1	`%`	40
@@ -40,7 +40,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[mage]`	2	`[dungeon type]`	`[level]`	0	`%`	65
 		`[mage]`	2	`[dungeon type]`	`[mp]`	0	`%`	-40

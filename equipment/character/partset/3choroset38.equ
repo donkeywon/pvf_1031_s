@@ -4,7 +4,7 @@
 	`绮罗之印  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[gunner]`	29	`[dungeon type]`	`[cooltime]`	0	`%`	-20
 		`[gunner]`	29	`[dungeon type]`	`[level]`	1	`%`	25
@@ -33,7 +33,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[gunner]`	59	`[dungeon type]`	`[cooltime]`	0	`%`	-30
 		`[gunner]`	59	`[dungeon type]`	`[level]`	3	`+`	5
@@ -59,7 +59,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[gunner]`	83	`[dungeon type]`	`[cooltime]`	0	`%`	-30
 		`[gunner]`	83	`[dungeon type]`	`[level]`	1	`%`	100

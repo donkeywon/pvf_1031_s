@@ -4,7 +4,7 @@
 	`傍埃狼 恐邦磊 技飘`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[priest]`	38	`[dungeon type]`	`[cooltime]`	0	`+`	-200
 		`[priest]`	38	`[dungeon type]`	`[level]`	0	`%`	25
@@ -15,7 +15,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[priest]`	38	`[dungeon type]`	`[cooltime]`	0	`+`	-200
 		`[priest]`	38	`[dungeon type]`	`[level]`	0	`%`	15
@@ -31,7 +31,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[priest]`	38	`[dungeon type]`	`[cooltime]`	0	`+`	-300
 		`[priest]`	38	`[dungeon type]`	`[static]`	3	`+`	3

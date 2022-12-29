@@ -4,7 +4,7 @@
 	`终极鲁莽  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[swordman]`	31	`[dungeon type]`	`[level]`	3	`+`	50
 		`[swordman]`	31	`[dungeon type]`	`[level]`	0	`%`	-30
@@ -23,7 +23,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[swordman]`	23	`[dungeon type]`	`[cooltime]`	0	`+`	-5000
 		`[swordman]`	23	`[dungeon type]`	`[level]`	0	`+`	6000
@@ -36,7 +36,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[swordman]`	40	`[dungeon type]`	`[cooltime]`	0	`+`	-16000
 		`[swordman]`	40	`[dungeon type]`	`[level]`	1	`+`	125

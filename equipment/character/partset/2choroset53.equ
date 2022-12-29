@@ -4,7 +4,7 @@
 	`闪耀的遗迹  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[mage]`	100	`[dungeon type]`	`[cooltime]`	0	`+`	-1800
 		`[mage]`	100	`[dungeon type]`	`[static]`	0	`+`	-90
@@ -20,7 +20,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[mage]`	98	`[dungeon type]`	`[cooltime]`	0	`+`	-5000
 		`[mage]`	98	`[dungeon type]`	`[static]`	2	`%`	30
@@ -34,7 +34,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[mage]`	105	`[dungeon type]`	`[cooltime]`	0	`+`	-15000
 		`[mage]`	105	`[dungeon type]`	`[static]`	0	`+`	-250

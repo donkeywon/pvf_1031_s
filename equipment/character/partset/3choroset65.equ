@@ -4,7 +4,7 @@
 	`亡者之庇佑  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[priest]`	123	`[dungeon type]`	`[level]`	3	`%`	20
 		`[priest]`	123	`[dungeon type]`	`[level]`	4	`%`	20
@@ -19,7 +19,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[priest]`	123	`[dungeon type]`	`[level]`	3	`%`	30
 		`[priest]`	123	`[dungeon type]`	`[level]`	4	`%`	30
@@ -38,7 +38,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[priest]`	124	`[dungeon type]`	`[level]`	0	`%`	100
 	[/skill data up]

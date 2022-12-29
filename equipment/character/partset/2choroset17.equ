@@ -4,7 +4,7 @@
 	`闪击之战  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[fighter]`	40	`[dungeon type]`	`[level]`	0	`%`	20
 		`[fighter]`	40	`[dungeon type]`	`[level]`	3	`%`	50
@@ -30,7 +30,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[fighter]`	16	`[dungeon type]`	`[cooltime]`	0	`+`	-6000
 		`[fighter]`	16	`[dungeon type]`	`[level]`	4	`%`	30
@@ -52,7 +52,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[fighter]`	79	`[dungeon type]`	`[cooltime]`	0	`+`	-20000
 		`[fighter]`	79	`[dungeon type]`	`[level]`	0	`%`	15

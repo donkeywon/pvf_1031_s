@@ -4,7 +4,7 @@
 	`诡秘之地  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[fighter]`	3	`[dungeon type]`	`[level]`	0	`%`	20
 		`[fighter]`	3	`[dungeon type]`	`[level]`	1	`%`	20
@@ -27,7 +27,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[fighter]`	99	`[dungeon type]`	`[level]`	0	`%`	30
 		`[fighter]`	99	`[dungeon type]`	`[level]`	1	`%`	30
@@ -59,7 +59,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[fighter]`	74	`[dungeon type]`	`[static]`	0	`+`	9
 		`[fighter]`	74	`[dungeon type]`	`[skill consume item]`	0	`+`	1

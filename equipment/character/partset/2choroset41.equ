@@ -4,7 +4,7 @@
 	`魔之掌控者 套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[gunner]`	29	`[dungeon type]`	`[cooltime]`	0	`%`	-30
 		`[gunner]`	29	`[dungeon type]`	`[level]`	1	`%`	15
@@ -31,7 +31,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[gunner]`	59	`[dungeon type]`	`[cooltime]`	0	`+`	-12000
 		`[gunner]`	59	`[dungeon type]`	`[level]`	5	`%`	30
@@ -49,7 +49,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[gunner]`	63	`[dungeon type]`	`[cooltime]`	0	`+`	-9000
 		`[gunner]`	63	`[dungeon type]`	`[static]`	5	`%`	-30

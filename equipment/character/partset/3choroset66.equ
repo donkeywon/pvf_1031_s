@@ -4,7 +4,7 @@
 	`炼狱之恸  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[priest]`	115	`[dungeon type]`	`[level]`	0	`%`	20
 		`[priest]`	115	`[dungeon type]`	`[static]`	0	`%`	-20
@@ -20,7 +20,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[if]
 		[module]
 			`[dungeon type]`
@@ -55,7 +55,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[if]
 		[module]
 			`[dungeon type]`

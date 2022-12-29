@@ -4,7 +4,7 @@
 	`赤焰御影  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[gunner]`	40	`[dungeon type]`	`[cooltime]`	0	`+`	-1000
 		`[gunner]`	40	`[dungeon type]`	`[level]`	5	`%`	15
@@ -31,7 +31,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[gunner]`	36	`[dungeon type]`	`[cooltime]`	0	`+`	-2000
 		`[gunner]`	36	`[dungeon type]`	`[static]`	0	`%`	-30
@@ -58,7 +58,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[gunner]`	71	`[dungeon type]`	`[cooltime]`	0	`%`	-65
 		`[gunner]`	71	`[dungeon type]`	`[level]`	0	`%`	15

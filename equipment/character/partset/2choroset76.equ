@@ -4,7 +4,7 @@
 	`阿斯兰的正义  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[at mage]`	29	`[dungeon type]`	`[level]`	0	`%`	25
 		`[at mage]`	29	`[dungeon type]`	`[level]`	3	`%`	25
@@ -16,7 +16,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[at mage]`	24	`[dungeon type]`	`[level]`	1	`%`	30
 		`[at mage]`	24	`[dungeon type]`	`[cooltime]`	0	`%`	-25
@@ -31,7 +31,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[at mage]`	30	`[dungeon type]`	`[cooltime]`	0	`+`	-12000
 		`[at mage]`	30	`[dungeon type]`	`[level]`	0	`+`	8

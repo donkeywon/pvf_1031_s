@@ -4,7 +4,7 @@
 	`红炎日珥  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[mage]`	88	`[dungeon type]`	`[level]`	4	`+`	2000
 		`[mage]`	88	`[dungeon type]`	`[level]`	6	`+`	2000
@@ -20,7 +20,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[mage]`	100	`[dungeon type]`	`[cooltime]`	0	`+`	-1200
 		`[mage]`	100	`[dungeon type]`	`[level]`	0	`%`	17
@@ -46,7 +46,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[mage]`	114	`[dungeon type]`	`[cooltime]`	0	`%`	-50
 		`[mage]`	114	`[dungeon type]`	`[static]`	11	`+`	2

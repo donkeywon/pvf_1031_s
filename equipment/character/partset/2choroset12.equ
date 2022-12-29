@@ -4,7 +4,7 @@
 	`黑暗之刃  套装`
 
 [piece set ability]
-	3	
+	3
 	[equipment physical defense]
 		600	600
 	[skill data up]
@@ -28,7 +28,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[equipment physical defense]
 		800	800
 	[skill data up]
@@ -51,7 +51,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[equipment physical defense]
 		1000	1000
 	[skill data up]

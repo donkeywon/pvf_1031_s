@@ -4,7 +4,7 @@
 	`永生之谋杀  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[swordman]`	23	`[dungeon type]`	`[static]`	0	`+`	-4
 		`[swordman]`	34	`[dungeon type]`	`[cooltime]`	0	`+`	-3000
@@ -19,7 +19,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[swordman]`	40	`[dungeon type]`	`[level]`	5	`+`	-20
 		`[swordman]`	40	`[dungeon type]`	`[level]`	6	`+`	-20
@@ -42,7 +42,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[swordman]`	34	`[dungeon type]`	`[cooltime]`	0	`+`	-4000
 		`[swordman]`	34	`[dungeon type]`	`[static]`	0	`+`	10

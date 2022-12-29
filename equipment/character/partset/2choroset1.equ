@@ -4,7 +4,7 @@
 	`Mr.根之源  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[swordman]`	8	`[dungeon type]`	`[cooltime]`	0	`+`	-1200
 		`[swordman]`	8	`[dungeon type]`	`[level]`	0	`%`	20
@@ -26,7 +26,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[swordman]`	9	`[dungeon type]`	`[cooltime]`	0	`+`	-5000
 		`[swordman]`	68	`[dungeon type]`	`[cooltime]`	0	`+`	-3500
@@ -37,7 +37,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[swordman]`	72	`[dungeon type]`	`[cooltime]`	0	`+`	-6000
 		`[swordman]`	72	`[dungeon type]`	`[static]`	0	`+`	-1

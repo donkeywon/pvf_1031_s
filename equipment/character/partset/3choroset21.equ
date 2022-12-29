@@ -4,7 +4,7 @@
 	`烈焰爆破者  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[fighter]`	76	`[dungeon type]`	`[level]`	1	`+`	2
 		`[at fighter]`	76	`[dungeon type]`	`[level]`	0	`%`	30
@@ -20,7 +20,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[fighter]`	76	`[dungeon type]`	`[level]`	1	`+`	3
 		`[fighter]`	76	`[dungeon type]`	`[level]`	0	`%`	20
@@ -50,7 +50,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[fighter]`	104	`[dungeon type]`	`[level]`	6	`%`	50
 		`[fighter]`	104	`[dungeon type]`	`[skill consume item]`	0	`+`	1

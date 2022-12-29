@@ -4,7 +4,7 @@
 	`777祈求者  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[mage]`	43	`[dungeon type]`	`[cooltime]`	0	`+`	-6000
 		`[mage]`	93	`[dungeon type]`	`[static]`	0	`+`	-100
@@ -24,7 +24,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[mage]`	101	`[dungeon type]`	`[cooltime]`	0	`+`	-7000
 		`[mage]`	101	`[dungeon type]`	`[static]`	0	`+`	-120
@@ -44,7 +44,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[mage]`	106	`[dungeon type]`	`[cooltime]`	0	`+`	-7500
 		`[mage]`	106	`[dungeon type]`	`[static]`	6	`%`	-50

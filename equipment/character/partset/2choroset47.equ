@@ -4,7 +4,7 @@
 	`星空追击者  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[mage]`	5	`[dungeon type]`	`[static]`	4	`%`	13
 		`[mage]`	6	`[dungeon type]`	`[static]`	4	`%`	13
@@ -18,7 +18,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[mage]`	5	`[dungeon type]`	`[level]`	5	`%`	30
 		`[mage]`	6	`[dungeon type]`	`[level]`	7	`%`	30
@@ -55,7 +55,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[mage]`	5	`[dungeon type]`	`[level]`	7	`%`	50
 		`[mage]`	6	`[dungeon type]`	`[level]`	9	`%`	50

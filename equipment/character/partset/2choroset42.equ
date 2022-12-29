@@ -4,7 +4,7 @@
 	`野蛮之诺  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[mage]`	17	`[dungeon type]`	`[cooltime]`	0	`+`	-400
 		`[mage]`	17	`[dungeon type]`	`[static]`	2	`%`	-50
@@ -19,7 +19,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[mage]`	31	`[dungeon type]`	`[cooltime]`	0	`+`	-1500
 		`[mage]`	31	`[dungeon type]`	`[static]`	0	`%`	-50
@@ -34,7 +34,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[mage]`	55	`[dungeon type]`	`[cooltime]`	0	`+`	-4500
 		`[mage]`	55	`[dungeon type]`	`[static]`	1	`%`	-50

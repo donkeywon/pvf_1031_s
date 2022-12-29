@@ -4,7 +4,7 @@
 	`荣誉之呐喊  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[priest]`	19	`[dungeon type]`	`[level]`	0	`%`	15
 		`[priest]`	19	`[dungeon type]`	`[level]`	1	`%`	15
@@ -22,7 +22,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[priest]`	55	`[dungeon type]`	`[cooltime]`	0	`+`	-3000
 		`[priest]`	26	`[dungeon type]`	`[cooltime]`	0	`%`	-20
@@ -45,7 +45,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[priest]`	45	`[dungeon type]`	`[level]`	0	`%`	-40
 		`[priest]`	45	`[dungeon type]`	`[mp]`	0	`%`	-40

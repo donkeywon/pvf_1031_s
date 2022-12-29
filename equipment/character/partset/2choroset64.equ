@@ -4,7 +4,7 @@
 	`神之恩赐  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[priest]`	51	`[dungeon type]`	`[level]`	0	`+`	-6000
 		`[priest]`	51	`[dungeon type]`	`[level]`	1	`%`	30
@@ -18,7 +18,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[priest]`	55	`[dungeon type]`	`[cooltime]`	0	`+`	-2000
 		`[priest]`	55	`[dungeon type]`	`[level]`	1	`%`	30
@@ -47,7 +47,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[priest]`	26	`[dungeon type]`	`[cooltime]`	0	`+`	-12000
 		`[priest]`	26	`[dungeon type]`	`[level]`	0	`+`	-1000

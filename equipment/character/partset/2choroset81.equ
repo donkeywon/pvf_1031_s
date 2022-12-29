@@ -4,7 +4,7 @@
 	`寒月魔神  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[at mage]`	16	`[dungeon type]`	`[static]`	0	`+`	1
 		`[at mage]`	16	`[dungeon type]`	`[cooltime]`	0	`%`	-10
@@ -21,7 +21,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[at mage]`	10	`[dungeon type]`	`[static]`	2	`+`	1
 		`[at mage]`	10	`[dungeon type]`	`[static]`	3	`+`	1
@@ -38,7 +38,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[at mage]`	13	`[dungeon type]`	`[cooltime]`	0	`+`	-12000
 		`[at mage]`	13	`[dungeon type]`	`[level]`	0	`%`	30

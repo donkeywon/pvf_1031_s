@@ -4,7 +4,7 @@
 	`暗之血迹  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[swordman]`	79	`[dungeon type]`	`[static]`	4	`%`	-50
 	[/skill data up]
@@ -13,7 +13,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[swordman]`	24	`[dungeon type]`	`[level]`	0	`%`	25
 		`[swordman]`	24	`[dungeon type]`	`[level]`	2	`%`	25

@@ -4,7 +4,7 @@
 	`冽风之痕  套装`
 
 [piece set ability]
-	3	
+	3
 	[if]
 		[module]
 			`[dungeon type]`
@@ -39,7 +39,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[swordman]`	68	`[dungeon type]`	`[static]`	0	`%`	30
 		`[swordman]`	68	`[dungeon type]`	`[static]`	2	`%`	-40
@@ -57,7 +57,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[swordman]`	73	`[dungeon type]`	`[static]`	1	`+`	10
 		`[swordman]`	73	`[dungeon type]`	`[static]`	2	`+`	10

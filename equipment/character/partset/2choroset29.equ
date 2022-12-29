@@ -4,7 +4,7 @@
 	`战地破坏者  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[fighter]`	9	`[dungeon type]`	`[level]`	1	`%`	40
 		`[fighter]`	9	`[dungeon type]`	`[level]`	0	`%`	-20
@@ -29,7 +29,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[fighter]`	18	`[dungeon type]`	`[static]`	6	`%`	30
 		`[fighter]`	18	`[dungeon type]`	`[static]`	7	`%`	30
@@ -65,7 +65,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[fighter]`	88	`[dungeon type]`	`[level]`	8	`%`	20
 		`[fighter]`	88	`[dungeon type]`	`[level]`	9	`%`	20

@@ -4,7 +4,7 @@
 	`大地之裂波  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[swordman]`	57	`[dungeon type]`	`[cooltime]`	0	`%`	-25
 		`[swordman]`	57	`[dungeon type]`	`[static]`	4	`+`	1
@@ -15,7 +15,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[swordman]`	62	`[dungeon type]`	`[static]`	15	`+`	1
 		`[swordman]`	62	`[dungeon type]`	`[cooltime]`	0	`+`	-12000
@@ -29,7 +29,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[swordman]`	47	`[dungeon type]`	`[static]`	2	`+`	2
 		`[swordman]`	47	`[dungeon type]`	`[level]`	2	`%`	-30

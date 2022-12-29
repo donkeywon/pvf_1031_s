@@ -4,7 +4,7 @@
 	`风神之惩  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[priest]`	11	`[dungeon type]`	`[cooltime]`	0	`+`	-1500
 		`[priest]`	11	`[dungeon type]`	`[mp]`	0	`%`	-25
@@ -33,7 +33,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[priest]`	41	`[dungeon type]`	`[cooltime]`	0	`+`	-4500
 		`[priest]`	41	`[dungeon type]`	`[mp]`	0	`%`	-30
@@ -67,7 +67,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[attack speed]
 		50
 	[move speed]

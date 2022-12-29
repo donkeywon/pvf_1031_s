@@ -4,7 +4,7 @@
 	`冰之残影  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[mage]`	89	`[dungeon type]`	`[level]`	0	`+`	7000
 		`[mage]`	89	`[dungeon type]`	`[level]`	10	`+`	3
@@ -17,7 +17,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[mage]`	99	`[dungeon type]`	`[cooltime]`	0	`+`	-6000
 		`[mage]`	99	`[dungeon type]`	`[static]`	12	`%`	-20
@@ -39,7 +39,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[mage]`	104	`[dungeon type]`	`[cooltime]`	0	`+`	-18000
 		`[mage]`	104	`[dungeon type]`	`[static]`	0	`+`	-200

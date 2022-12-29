@@ -4,7 +4,7 @@
 	`终结之元素  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[at mage]`	5	`[dungeon type]`	`[level]`	1	`%`	22
 		`[at mage]`	5	`[dungeon type]`	`[level]`	2	`%`	22
@@ -21,7 +21,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[at mage]`	28	`[dungeon type]`	`[level]`	0	`+`	8
 		`[at mage]`	28	`[dungeon type]`	`[level]`	1	`+`	5
@@ -45,7 +45,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[at mage]`	61	`[dungeon type]`	`[level]`	0	`%`	50
 		`[at mage]`	61	`[dungeon type]`	`[level]`	1	`%`	50

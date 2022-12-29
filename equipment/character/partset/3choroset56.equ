@@ -4,7 +4,7 @@
 	`血之尖啸  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[mage]`	65	`[dungeon type]`	`[cooltime]`	0	`+`	-800
 		`[mage]`	65	`[dungeon type]`	`[level]`	0	`%`	15
@@ -26,7 +26,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[mage]`	125	`[dungeon type]`	`[cooltime]`	0	`+`	-1200
 		`[mage]`	125	`[dungeon type]`	`[level]`	0	`%`	15
@@ -48,7 +48,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[mage]`	68	`[dungeon type]`	`[cooltime]`	0	`%`	-55
 		`[mage]`	68	`[dungeon type]`	`[level]`	0	`%`	10

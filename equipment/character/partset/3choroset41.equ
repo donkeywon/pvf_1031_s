@@ -4,7 +4,7 @@
 	`致命逆袭  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[gunner]`	77	`[dungeon type]`	`[static]`	1	`+`	5000
 		`[gunner]`	77	`[dungeon type]`	`[level]`	1	`%`	10
@@ -26,7 +26,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[gunner]`	33	`[dungeon type]`	`[level]`	0	`%`	40
 		`[gunner]`	48	`[dungeon type]`	`[cooltime]`	0	`%`	-30
@@ -51,7 +51,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[gunner]`	78	`[dungeon type]`	`[cooltime]`	0	`%`	-65
 		`[gunner]`	78	`[dungeon type]`	`[static]`	1	`+`	-1

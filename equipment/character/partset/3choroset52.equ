@@ -4,7 +4,7 @@
 	`能量之源  套装`
 
 [piece set ability]
-	3	
+	3
 	[skill data up]
 		`[priest]`	78	`[dungeon type]`	`[level]`	0	`%`	25
 		`[priest]`	78	`[dungeon type]`	`[level]`	1	`%`	25
@@ -18,7 +18,7 @@
 [/piece set ability]
 
 [piece set ability]
-	6	
+	6
 	[skill data up]
 		`[priest]`	56	`[dungeon type]`	`[level]`	0	`%`	30
 		`[priest]`	57	`[dungeon type]`	`[level]`	0	`%`	30
@@ -35,7 +35,7 @@
 [/piece set ability]
 
 [piece set ability]
-	9	
+	9
 	[skill data up]
 		`[priest]`	35	`[dungeon type]`	`[level]`	1	`%`	60
 		`[priest]`	35	`[dungeon type]`	`[level]`	2	`%`	60
