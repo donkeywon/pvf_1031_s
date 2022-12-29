@@ -394,3 +394,23 @@
 	`自定义聊天 10`	78
 	`quickchat`
 	`right`	-1
+
+[key]
+	`修炼场 召唤`	89
+	`character`
+	`right`	55
+
+[key]
+	`修炼场 解除`	90
+	`character`
+	`right`	56
+
+[key]
+	`修炼场 重置冷却`	91
+	`character`
+	`right`	57
+
+[key]
+	`修炼场 打开主菜单`	92
+	`character`
+	`right`	58
