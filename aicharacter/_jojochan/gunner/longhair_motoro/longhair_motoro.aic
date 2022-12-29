@@ -194,7 +194,7 @@
 	[on damage]
 		`呃！！`	30
 	[on damage]
-		`你在做什幺？`	30
+		`你在做什么？`	30
 	[on die]
 		`不要剪我的头...`	30
 	[on attack]

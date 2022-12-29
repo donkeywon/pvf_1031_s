@@ -127,11 +127,11 @@
 	[on damage]
 		`从哪里出现的？`	10
 	[on damage]
-		`有什幺事吗？`	10
+		`有什么事吗？`	10
 	[on attack]
 		`你是谁？`	10	3
 	[on attack]
 		`从哪里出现的？`	10	6
 	[on attack]
-		`有什幺事吗？`	10	7
+		`有什么事吗？`	10	7
 [/speech on situation]

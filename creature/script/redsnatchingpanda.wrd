@@ -6,7 +6,7 @@
 		`好无聊呀，谁来陪陪我啊！`
 		`别瞅了，别瞅了，我知道我很帅~~`	
 		[in elven gard]
-			`这里什幺都有，就是没有竹子，真讨厌！`
+			`这里什么都有，就是没有竹子，真讨厌！`
 		[/in elven gard]
 		[in alfhlyra]
 			`这儿真黑，我很容易暴露目标的！`
@@ -42,7 +42,7 @@
 		[/rank over]
 		[rank under]
 			`b`
-			`技术这幺菜？看来我跟错人了…T_T…`
+			`技术这么菜？看来我跟错人了…T_T…`
 			`555……我骄傲的一生，就这样被毁了……`
 		[/rank under]
 	[/main game]
@@ -56,14 +56,14 @@
 		[pop random]
 			30	
 			[call the name]
-				`又不是什幺稀罕的名字，喊那幺大声干啥捏！`
+				`又不是什么稀罕的名字，喊那么大声干啥捏！`
 			[/call the name]
 		[/pop random]
 		[pop random]
 			20	
 			[equip]
 				`我是吉祥的代表~大家鼓掌欢迎我的到来吧！`
-				`这幺好的露脸机会，怎幺能少了我呀！`
+				`这么好的露脸机会，怎么能少了我呀！`
 			[/equip]
 		[/pop random]
 		[pop random]
@@ -123,13 +123,13 @@
 			`挖哈哈~~熊猫熊猫，你真厉害！`
 		[/over skill waiting]
 		[call the name]
-			`又不是什幺稀罕的名字，喊那幺大声干啥捏！`
+			`又不是什么稀罕的名字，喊那么大声干啥捏！`
 		[/call the name]
 		[pop random]
 			20	
 			[equip]
 				`我是吉祥的代表~大家鼓掌欢迎我的到来吧！`
-				`这幺好的露脸机会，怎幺能少了我呀！`
+				`这么好的露脸机会，怎么能少了我呀！`
 			[/equip]
 		[/pop random]
 		[pop random]

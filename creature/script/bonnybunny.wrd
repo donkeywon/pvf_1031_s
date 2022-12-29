@@ -94,7 +94,7 @@
 		[/over skill waiting]
 		[call the name]
 			`我可不是一只随便的兔子~`
-			`这幺高贵的名字，能随便乱喊嘛？`
+			`这么高贵的名字，能随便乱喊嘛？`
 		[/call the name]
 		[pop random]
 			40	

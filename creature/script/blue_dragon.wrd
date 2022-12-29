@@ -88,7 +88,7 @@
 	[/room list]
 	[main game]
 		[eat feed]
-			`这是什幺食物，我要研究研究~~`
+			`这是什么食物，我要研究研究~~`
 			`享受美味的食物是我最大的乐趣~`
 		[/eat feed]
 		[none feed]
@@ -108,7 +108,7 @@
 			40	
 			[skill gauge full]
 				`主人，我准备好了！`
-				`无论什幺时候，我都会为主人准备好的~`
+				`无论什么时候，我都会为主人准备好的~`
 			[/skill gauge full]
 		[/pop random]
 		[pop random]

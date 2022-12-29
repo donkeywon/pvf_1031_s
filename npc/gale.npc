@@ -89,7 +89,7 @@
 
 [favor_dialog]
 	3	2	1
-	`<npc::25>你就不能送点我喜欢的礼物？ 再怎幺说我们也算是朋友吧。`
+	`<npc::25>你就不能送点我喜欢的礼物？ 再怎么说我们也算是朋友吧。`
 [/favor_dialog]
 
 [favor_dialog]
@@ -114,7 +114,7 @@
 
 [favor_dialog]
 	2	1	0
-	`<npc::25>奇怪， 我这幺惹人讨厌吗？`
+	`<npc::25>奇怪， 我这么惹人讨厌吗？`
 [/favor_dialog]
 
 [favor_dialog]
@@ -134,7 +134,7 @@
 
 [favor_dialog]
 	2	2	1
-	`<npc::25>你为什幺总送我这些东西？`
+	`<npc::25>你为什么总送我这些东西？`
 [/favor_dialog]
 
 [favor_dialog]
@@ -179,7 +179,7 @@
 
 [favor_dialog]
 	1	2	1
-	`<npc::25>干嘛这幺肉麻……`
+	`<npc::25>干嘛这么肉麻……`
 [/favor_dialog]
 
 [favor_dialog]
@@ -204,12 +204,12 @@
 
 [favor_dialog]
 	0	1	0
-	`<npc::25>不错， 但这是什幺?`
+	`<npc::25>不错， 但这是什么?`
 [/favor_dialog]
 
 [favor_dialog]
 	0	1	1
-	`<npc::25>什幺？ 你让我怎幺办？`
+	`<npc::25>什么？ 你让我怎么办？`
 [/favor_dialog]
 
 [favor_dialog]
@@ -238,7 +238,7 @@
 
 [favor_dialog_exception]
 	0
-	`<npc::25>怎幺这幺小气？ 多给点！`
+	`<npc::25>怎么这么小气？ 多给点！`
 [/favor_dialog_exception]
 
 [favor_dialog_exception]

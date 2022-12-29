@@ -91,7 +91,7 @@
 
 [favor_dialog]
 	3	2	0
-	`<npc::19>那段日子太孤单了， 幸好有你在， 不然我都不知道自己会变成什幺样。`
+	`<npc::19>那段日子太孤单了， 幸好有你在， 不然我都不知道自己会变成什么样。`
 [/favor_dialog]
 
 [favor_dialog]
@@ -121,7 +121,7 @@
 
 [favor_dialog]
 	2	1	0
-	`<npc::19>不知为什幺， 我觉得我和你能进行精神上的沟通。`
+	`<npc::19>不知为什么， 我觉得我和你能进行精神上的沟通。`
 [/favor_dialog]
 
 [favor_dialog]
@@ -156,7 +156,7 @@
 
 [favor_dialog]
 	1	0	1
-	`<npc::19>为了我， 你受了这幺多苦， 我心里实在难受。`
+	`<npc::19>为了我， 你受了这么多苦， 我心里实在难受。`
 [/favor_dialog]
 
 [favor_dialog]
@@ -221,7 +221,7 @@
 
 [favor_dialog]
 	0	1	2
-	`<npc::19>不管你怎幺对我， 我都会很伤心。`
+	`<npc::19>不管你怎么对我， 我都会很伤心。`
 [/favor_dialog]
 
 [favor_dialog]

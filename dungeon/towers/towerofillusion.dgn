@@ -151,7 +151,7 @@
 
 [tower dialog]
 	9
-	` <apc::-1>不管你用什幺方法， 一定要找到让我开心的东西。`
+	` <apc::-1>不管你用什么方法， 一定要找到让我开心的东西。`
 	`on complete`
 
 [tower dialog]
@@ -191,7 +191,7 @@
 
 [tower dialog]
 	13
-	` <apc::-1>怎幺这样。 我的庭院变得乱七八糟。`
+	` <apc::-1>怎么这样。 我的庭院变得乱七八糟。`
 	`on complete`
 
 [tower dialog]

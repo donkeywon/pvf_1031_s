@@ -4,6 +4,6 @@
 	[BASE ANI]
 		`../animation/Crouch.ani`
 	[SPEECH]
-		`你就这点本事幺？`	0	100
+		`你就这点本事么？`	0	100
 	[/SPEECH]
 [/MOTION]

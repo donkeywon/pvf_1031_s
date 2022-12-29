@@ -4,7 +4,7 @@
 	[BASE ANI]
 		`../Animation/Run2.ani`
 	[SPEECH]
-		`这是什幺～好可怕～`	0	30
+		`这是什么～好可怕～`	0	30
 	[/SPEECH]
 	[SOUND]
 		`CASPAR_SKILL_01`	0

@@ -70,7 +70,7 @@
 
 [BEHAVIOR]
 	[SAY SPEECH]
-		`基弘_嗯？好像有什幺？`
+		`基弘_嗯？好像有什么？`
 [/BEHAVIOR]
 
 [TRIGGER]
@@ -83,7 +83,7 @@
 
 [BEHAVIOR]
 	[SAY SPEECH]
-		`基弘_非常闪亮的！是什幺啊？是什幺啊？是宝物吗？`
+		`基弘_非常闪亮的！是什么啊？是什么啊？是宝物吗？`
 [/BEHAVIOR]
 
 [BEHAVIOR]

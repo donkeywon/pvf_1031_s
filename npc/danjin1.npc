@@ -74,7 +74,7 @@
 
 [favor_dialog]
 	3	1	2
-	`<npc::20>我现在知道我不喜欢什幺了！`
+	`<npc::20>我现在知道我不喜欢什么了！`
 [/favor_dialog]
 
 [favor_dialog]
@@ -104,7 +104,7 @@
 
 [favor_dialog]
 	2	0	2
-	`<npc::20>说吧， 你这样硬塞礼物给我， 有什幺企图？`
+	`<npc::20>说吧， 你这样硬塞礼物给我， 有什么企图？`
 [/favor_dialog]
 
 [favor_dialog]
@@ -134,7 +134,7 @@
 
 [favor_dialog]
 	2	2	2
-	`<npc::20>是我看走眼了吗？ 这到底是什幺东西！`
+	`<npc::20>是我看走眼了吗？ 这到底是什么东西！`
 [/favor_dialog]
 
 [favor_dialog]
@@ -184,7 +184,7 @@
 
 [favor_dialog]
 	0	0	0
-	`<npc::20>怎幺办？ 我好像看你顺眼一点了。`
+	`<npc::20>怎么办？ 我好像看你顺眼一点了。`
 [/favor_dialog]
 
 [favor_dialog]

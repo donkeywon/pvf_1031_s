@@ -54,10 +54,10 @@
 		[/skill gauge full]
 		[over skill gauge full]
 			`现在好像可以使用虚无之球了！`
-			`也许我现在要做些什幺。`
+			`也许我现在要做些什么。`
 		[/over skill gauge full]
 		[over skill waiting]
-			`也许我现在要做些什幺。`
+			`也许我现在要做些什么。`
 			`还是画画能让我打起精神来……`
 		[/over skill waiting]
 		[call the name]

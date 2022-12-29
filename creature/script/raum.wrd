@@ -18,9 +18,9 @@
 	[main game]
 		[fill point under]
 			20
-			`嗅~嗅~~，肚子饿的时候，闻什幺都香……`
-			`嗅~嗅~~，肚子饿的时候，闻什幺都香……`
-			`嗅~嗅~~，肚子饿的时候，闻什幺都香……`
+			`嗅~嗅~~，肚子饿的时候，闻什么都香……`
+			`嗅~嗅~~，肚子饿的时候，闻什么都香……`
+			`嗅~嗅~~，肚子饿的时候，闻什么都香……`
 		[/fill point under]
 		[enemies alive]
 			[hits over]
@@ -114,7 +114,7 @@
 		[pop random]
 			30	
 			[over skill gauge full]
-				`什幺！`
+				`什么！`
 				`晕！！！`
 			[/over skill gauge full]
 		[/pop random]

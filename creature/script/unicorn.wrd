@@ -2,7 +2,7 @@
 
 [ambient]
 	[room list]
-		`主人又在发呆了~再这幺下去，我们会变成阿呆的！`
+		`主人又在发呆了~再这么下去，我们会变成阿呆的！`
 		`原地飞行好累的~我快支援不住了！！！`
 		``	
 		[in elven gard]
@@ -31,7 +31,7 @@
 			[hits under]
 				21
 				`主人，我看好你哦！`
-				`哎，这些怪物什幺时候才能像我们一样时刻追求进步呀！`
+				`哎，这些怪物什么时候才能像我们一样时刻追求进步呀！`
 			[/hits under]
 		[/enemies alive]
 		[enemies destroyed]
@@ -83,7 +83,7 @@
 			``
 		[/evolution]
 		[eat feed]
-			`什幺诱惑都比不上美食的诱惑！`
+			`什么诱惑都比不上美食的诱惑！`
 		[/eat feed]
 	[/room list]
 	[main game]

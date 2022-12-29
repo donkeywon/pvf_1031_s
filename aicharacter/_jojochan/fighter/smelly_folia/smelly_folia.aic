@@ -160,7 +160,7 @@
 
 [speech on situation]
 	[on appear]
-		`你躲什幺？！`	100
+		`你躲什么？！`	100
 	[on attack]
 		`你说我身上有味道？！！`	25	0
 	[on attack]

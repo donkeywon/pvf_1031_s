@@ -10,7 +10,7 @@
 		`DWARFSILVER_SKILL_03`	0
 	[/SOUND]
 	[SPEECH]
-		`这里有什幺东西吗？`	4	10
+		`这里有什么东西吗？`	4	10
 		`不要放过一个角落！！`	9	10
 	[/SPEECH]
 [/MOTION]

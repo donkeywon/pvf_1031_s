@@ -100,7 +100,7 @@
 	[on stand]
 		`我不是人妖！`	40
 	[on damage]
-		`你们想干什幺？`	30
+		`你们想干什么？`	30
 	[on damage]
 		`哎呀！`	30
 	[on appear]

@@ -6,7 +6,7 @@
 		`我讨厌无聊的人生，更讨厌无聊的等待！`
 		`我是独一无二的雪橇达鹿……`	
 		[in elven gard]
-			`为什幺我的角比牛头怪的角小？`
+			`为什么我的角比牛头怪的角小？`
 		[/in elven gard]
 		[in alfhlyra]
 			`主人，这地方太阴森了，会影响我开雪橇的！`
@@ -26,7 +26,7 @@
 			[hits over]
 				20
 				`主人，你是故意的吗？`
-				`害我被打那幺多次，主人你太没用啦！`
+				`害我被打那么多次，主人你太没用啦！`
 			[/hits over]
 			[hits under]
 				21
@@ -76,7 +76,7 @@
 		[pop random]
 			50	
 			[character level up]
-				`为什幺主人长得比我快？！`
+				`为什么主人长得比我快？！`
 			[/character level up]
 		[/pop random]
 		[evolution]
@@ -142,7 +142,7 @@
 		[pop random]
 			50	
 			[character level up]
-				`为什幺主人长得比我快？！`
+				`为什么主人长得比我快？！`
 			[/character level up]
 		[/pop random]
 		[evolution]

@@ -24,7 +24,7 @@
 		[pop random]
 			40	
 			[call the name]
-				`有什幺事吗？`
+				`有什么事吗？`
 			[/call the name]
 		[/pop random]
 		[pop random]
@@ -71,7 +71,7 @@
 			[/skill gauge full]
 		[/pop random]
 		[call the name]
-			`有什幺事吗？`
+			`有什么事吗？`
 		[/call the name]
 		[pop random]
 			40	

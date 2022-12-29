@@ -43,7 +43,7 @@
 
 [dialog]
 	2	1	99	-1	1	0
-	`<npc::42>男子汉流血不流泪， 很少看见你这幺低靡的！ 来、 来！ 喝杯酒， 把失落赶走！`
+	`<npc::42>男子汉流血不流泪， 很少看见你这么低靡的！ 来、 来！ 喝杯酒， 把失落赶走！`
 [/dialog]
 
 [dialog]
@@ -53,7 +53,7 @@
 
 [favor_dialog]
 	3	0	0
-	`<npc::42>你也算是我的朋友， 为了你， 我什幺都可以做。`
+	`<npc::42>你也算是我的朋友， 为了你， 我什么都可以做。`
 [/favor_dialog]
 
 [favor_dialog]
@@ -68,17 +68,17 @@
 
 [favor_dialog]
 	3	1	0
-	`<npc::42>在我遇见的异族人中， 你是第一个这幺了解我的人。`
+	`<npc::42>在我遇见的异族人中， 你是第一个这么了解我的人。`
 [/favor_dialog]
 
 [favor_dialog]
 	3	1	1
-	`<npc::42>你太客气了， 每次来还带那幺多东西， 咱们可是一家人啊。`
+	`<npc::42>你太客气了， 每次来还带那么多东西， 咱们可是一家人啊。`
 [/favor_dialog]
 
 [favor_dialog]
 	3	1	2
-	`<npc::42>嗯， 这回是……嗯？ 怎幺又是这个啊， 有点失望……`
+	`<npc::42>嗯， 这回是……嗯？ 怎么又是这个啊， 有点失望……`
 [/favor_dialog]
 
 [favor_dialog]
@@ -108,7 +108,7 @@
 
 [favor_dialog]
 	2	0	2
-	`<npc::42>呵呵……有什幺不满， 就直接说吧。`
+	`<npc::42>呵呵……有什么不满， 就直接说吧。`
 [/favor_dialog]
 
 [favor_dialog]
@@ -153,7 +153,7 @@
 
 [favor_dialog]
 	1	0	2
-	`<npc::42>这是什幺啊？ 真够扫兴的。`
+	`<npc::42>这是什么啊？ 真够扫兴的。`
 [/favor_dialog]
 
 [favor_dialog]
@@ -163,7 +163,7 @@
 
 [favor_dialog]
 	1	1	1
-	`<npc::42>呀哈， 那小妞不错……呃， 你刚才说什幺来着？`
+	`<npc::42>呀哈， 那小妞不错……呃， 你刚才说什么来着？`
 [/favor_dialog]
 
 [favor_dialog]
@@ -178,7 +178,7 @@
 
 [favor_dialog]
 	1	2	1
-	`<npc::42>唉， 我老婆真麻烦……嗯？ 你刚才说什幺来着？`
+	`<npc::42>唉， 我老婆真麻烦……嗯？ 你刚才说什么来着？`
 [/favor_dialog]
 
 [favor_dialog]
@@ -193,7 +193,7 @@
 
 [favor_dialog]
 	0	0	1
-	`<npc::42>呃……醉了……嗯？ 你怎幺成杂货商人了？`
+	`<npc::42>呃……醉了……嗯？ 你怎么成杂货商人了？`
 [/favor_dialog]
 
 [favor_dialog]
@@ -208,7 +208,7 @@
 
 [favor_dialog]
 	0	1	1
-	`<npc::42>噢， 我没什幺兴趣啊。`
+	`<npc::42>噢， 我没什么兴趣啊。`
 [/favor_dialog]
 
 [favor_dialog]
@@ -223,7 +223,7 @@
 
 [favor_dialog]
 	0	2	1
-	`<npc::42>呃……你说什幺？`
+	`<npc::42>呃……你说什么？`
 [/favor_dialog]
 
 [favor_dialog]

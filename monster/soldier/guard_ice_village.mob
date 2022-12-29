@@ -165,5 +165,5 @@
 [speech on situation]
 	`[on etc]`	`你们会死得很惨，哼!`	0	`[on etc]`
 	`啊哈哈!这次轮到你了!%s!`	0	`[on etc]`	`这招怎样?`
-	0	`[on die]`	`我死了?怎幺可能?!`	0
+	0	`[on die]`	`我死了?怎么可能?!`	0
 [/speech on situation]

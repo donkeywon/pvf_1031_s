@@ -12,7 +12,7 @@
 			`我讨厌黑暗的地方……`
 		[/in alfhlyra]
 		[in stom pass]
-			`这就是传说中的雪吗？也没什幺特别的感觉嘛……- -……`
+			`这就是传说中的雪吗？也没什么特别的感觉嘛……- -……`
 		[/in stom pass]
 	[/room list]
 	[main game]
@@ -51,7 +51,7 @@
 [trigger]
 	[room list]
 		[renamed]
-			`新名字？好的！以后就这幺叫我吧~`
+			`新名字？好的！以后就这么叫我吧~`
 		[/renamed]
 		[pop random]
 			30	

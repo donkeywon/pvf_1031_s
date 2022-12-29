@@ -11,7 +11,7 @@
 		`../Animation/shoes/Throw.ani`	0	8
 	[/SUB ANI]
 	[SPEECH]
-		`为什幺在森林里放火？！`	2	30
+		`为什么在森林里放火？！`	2	30
 	[/SPEECH]
 	[SOUND]
 		`ICICLE_CREATE`	3

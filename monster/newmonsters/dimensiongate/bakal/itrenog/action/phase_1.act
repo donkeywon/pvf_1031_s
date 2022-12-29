@@ -26,7 +26,7 @@
 
 [BEHAVIOR]
 	[SAY SPEECH]
-		`你究竟是什幺人？！`
+		`你究竟是什么人？！`
 	[REMOVE CATEGORY]
 	[FIXTURE]
 	[CHANGE ACTION FILE]

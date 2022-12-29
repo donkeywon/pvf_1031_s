@@ -125,7 +125,7 @@
 	[on attack]
 		`放心， 我准备好了！`	50	0
 	[on attack]
-		`就这点本事幺？`	50	1
+		`就这点本事么？`	50	1
 	[on attack]
 		`太让我失望了！`	50	1
 [/speech on situation]

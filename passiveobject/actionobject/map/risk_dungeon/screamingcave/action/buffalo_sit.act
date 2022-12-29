@@ -70,7 +70,7 @@
 
 [BEHAVIOR]
 	[SAY SPEECH]
-		`嗯？ 好像有什幺？`
+		`嗯？ 好像有什么？`
 [/BEHAVIOR]
 
 [TRIGGER]

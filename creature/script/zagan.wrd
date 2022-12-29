@@ -115,7 +115,7 @@
 			30	
 			[over skill gauge full]
 				`暗矛突击，准备！！！`
-				`我都准备好了，主人，你怎幺还没反应？`
+				`我都准备好了，主人，你怎么还没反应？`
 			[/over skill gauge full]
 		[/pop random]
 		[over skill waiting]

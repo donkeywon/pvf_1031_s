@@ -58,7 +58,7 @@
 
 [favor_dialog]
 	3	0	1
-	`<npc::30>我没想到， 这世上还有你这幺亲切的人。`
+	`<npc::30>我没想到， 这世上还有你这么亲切的人。`
 [/favor_dialog]
 
 [favor_dialog]
@@ -83,7 +83,7 @@
 
 [favor_dialog]
 	3	2	0
-	`<npc::30>自从你出现后， 我的生活才不会那幺无聊。`
+	`<npc::30>自从你出现后， 我的生活才不会那么无聊。`
 [/favor_dialog]
 
 [favor_dialog]
@@ -118,17 +118,17 @@
 
 [favor_dialog]
 	2	1	1
-	`<npc::30>我不知道该怎幺办了。`
+	`<npc::30>我不知道该怎么办了。`
 [/favor_dialog]
 
 [favor_dialog]
 	2	1	2
-	`<npc::30>我做错什幺了吗？`
+	`<npc::30>我做错什么了吗？`
 [/favor_dialog]
 
 [favor_dialog]
 	2	2	0
-	`<npc::30>你是第一个对我这幺好的人。`
+	`<npc::30>你是第一个对我这么好的人。`
 [/favor_dialog]
 
 [favor_dialog]
@@ -173,7 +173,7 @@
 
 [favor_dialog]
 	1	2	0
-	`<npc::30>这幺贵重的东西， 我可以接受吗……`
+	`<npc::30>这么贵重的东西， 我可以接受吗……`
 [/favor_dialog]
 
 [favor_dialog]
@@ -247,7 +247,7 @@
 
 [event_favor_dialog]
 	2
-	`<npc::30>你说卡坤他......。不就是上次情人节时拒绝我的巧克力那个人吗？你知道当时我有多伤心吗？怎幺会送我这糖果呢？我真得很不高兴！！！！ 还是收回去吧！！`
+	`<npc::30>你说卡坤他......。不就是上次情人节时拒绝我的巧克力那个人吗？你知道当时我有多伤心吗？怎么会送我这糖果呢？我真得很不高兴！！！！ 还是收回去吧！！`
 [/event_favor_dialog]
 
 [favorable relationship]

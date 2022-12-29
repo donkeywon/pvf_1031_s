@@ -11,7 +11,7 @@
 		[fill point under]
 			20
 			`饥寒交迫， 就是我现在这样！`
-			`再这幺下去， 我会融成一摊雪水~`
+			`再这么下去， 我会融成一摊雪水~`
 		[/fill point under]
 	[/main game]
 [/ambient]
@@ -24,7 +24,7 @@
 		[pop random]
 			40	
 			[call the name]
-				`什幺事？ 热了？`
+				`什么事？ 热了？`
 			[/call the name]
 		[/pop random]
 		[pop random]
@@ -64,7 +64,7 @@
 			`这是来自寒冰之地的祝福！`
 		[/using skill]
 		[using overskill]
-			`好好体验下什幺是透心凉！`
+			`好好体验下什么是透心凉！`
 			`我决不允许任何人伤害主人！`
 		[/using overskill]
 		[pop random]
@@ -86,7 +86,7 @@
 			`你们该好好冷静下了！`
 		[/over skill waiting]
 		[call the name]
-			`什幺事？ 热了？`
+			`什么事？ 热了？`
 		[/call the name]
 		[pop random]
 			40	

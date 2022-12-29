@@ -150,7 +150,7 @@
 	`路易丝姐姐`
 
 [speech on situation]
-	`[on appear]`	`哈哈哈！找姐姐什幺事？`	0	`[on attack]`
+	`[on appear]`	`哈哈哈！找姐姐什么事？`	0	`[on attack]`
 	`我的愤怒，你承受不起！！`	0	`[on damage]`	`呀啊！你让我生气了！`
 	0	`[on go to help]`	`大胆！你不能欺负我的姐妹！`	0
 	`[on disappear]`	`送你这最后的礼物！`	0	`[on die]`

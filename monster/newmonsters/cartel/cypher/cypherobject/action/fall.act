@@ -4,7 +4,7 @@
 	[BASE ANI]
 		`../animation/fall.ani`
 	[SPEECH]
-		`怎幺会`	3	50
+		`怎么会`	3	50
 		`力量......`	3	50
 	[/SPEECH]
 [/MOTION]

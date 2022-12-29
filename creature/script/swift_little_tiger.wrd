@@ -4,15 +4,15 @@
 	[room list]
 		`居然把我撇在一边？嗷嗷嗷~~~~`
 		`真是哪儿都有无聊的家伙啊。`
-		`这种地方也值得呆这幺久吗？难怪人类都这幺愚蠢……`	
+		`这种地方也值得呆这么久吗？难怪人类都这么愚蠢……`	
 		[in elven gard]
 			`树木的气息令人怀念……`
 		[/in elven gard]
 		[in alfhlyra]
-			`主人天黑了幺？我还没玩够呢~嗷~`
+			`主人天黑了么？我还没玩够呢~嗷~`
 		[/in alfhlyra]
 		[in stom pass]
-			`真冷啊，幸好我有厚厚的毛皮~呃，主人你那什幺眼神？`
+			`真冷啊，幸好我有厚厚的毛皮~呃，主人你那什么眼神？`
 		[/in stom pass]
 	[/room list]
 	[main game]
@@ -69,8 +69,8 @@
 		[pop random]
 			50	
 			[level up]
-				`哼~升级什幺的，最讨厌了~嗷~~`
-				`升啦~想想怎幺欺负那些家伙们~`
+				`哼~升级什么的，最讨厌了~嗷~~`
+				`升啦~想想怎么欺负那些家伙们~`
 			[/level up]
 		[/pop random]
 		[pop random]
@@ -119,7 +119,7 @@
 			[/over skill gauge full]
 		[/pop random]
 		[over skill waiting]
-			`为什幺还不叫我？`
+			`为什么还不叫我？`
 			`我的力量，是暴风雨前的天空……`
 		[/over skill waiting]
 		[call the name]
@@ -135,8 +135,8 @@
 		[pop random]
 			50	
 			[level up]
-				`哼~升级什幺的，最讨厌了~嗷~~`
-				`升啦~想想怎幺欺负那些家伙们~`
+				`哼~升级什么的，最讨厌了~嗷~~`
+				`升啦~想想怎么欺负那些家伙们~`
 			[/level up]
 		[/pop random]
 		[pop random]

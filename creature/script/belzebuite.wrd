@@ -51,18 +51,18 @@
 [trigger]
 	[room list]
 		[renamed]
-			`对我来说，你怎幺叫，我都无所谓。`
+			`对我来说，你怎么叫，我都无所谓。`
 		[/renamed]
 		[pop random]
 			30	
 			[call the name]
-				`哼哼，一个小鬼能折腾出什幺事呀！`
+				`哼哼，一个小鬼能折腾出什么事呀！`
 			[/call the name]
 		[/pop random]
 		[pop random]
 			20	
 			[equip]
-				`哼……小鬼，召我出来做什幺？`
+				`哼……小鬼，召我出来做什么？`
 				`这小鬼是我的主人？可恶……`
 			[/equip]
 		[/pop random]
@@ -123,12 +123,12 @@
 			`小鬼，你的意思是不需要我的力量了？`
 		[/over skill waiting]
 		[call the name]
-			`哼哼，一个小鬼能折腾出什幺事呀！`
+			`哼哼，一个小鬼能折腾出什么事呀！`
 		[/call the name]
 		[pop random]
 			20	
 			[equip]
-				`哼……小鬼，召我出来做什幺？`
+				`哼……小鬼，召我出来做什么？`
 				`这小鬼是我的主人？可恶……`
 			[/equip]
 		[/pop random]

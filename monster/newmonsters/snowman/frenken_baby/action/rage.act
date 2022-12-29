@@ -4,7 +4,7 @@
 	[BASE ANI]
 		`../Animation/rage.ani`
 	[SPEECH]
-		`不能就这幺死去！！`	0	30
+		`不能就这么死去！！`	0	30
 		`快放开我……`	0	30
 	[/SPEECH]
 [/MOTION]

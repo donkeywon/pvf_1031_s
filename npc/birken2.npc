@@ -114,7 +114,7 @@
 
 [favor_dialog]
 	2	1	0
-	`<npc::23>对我这样无趣的人， 你不必这幺费心……`
+	`<npc::23>对我这样无趣的人， 你不必这么费心……`
 [/favor_dialog]
 
 [favor_dialog]
@@ -169,7 +169,7 @@
 
 [favor_dialog]
 	1	1	2
-	`<npc::23>谁派你来的？ 你有什幺阴谋？`
+	`<npc::23>谁派你来的？ 你有什么阴谋？`
 [/favor_dialog]
 
 [favor_dialog]
@@ -199,7 +199,7 @@
 
 [favor_dialog]
 	0	0	2
-	`<npc::23>你是故意让我伤心的吗？ 为什幺？`
+	`<npc::23>你是故意让我伤心的吗？ 为什么？`
 [/favor_dialog]
 
 [favor_dialog]
@@ -238,7 +238,7 @@
 
 [favor_dialog_exception]
 	0
-	`<npc::23>就这幺点？ 肯定不够啊。`
+	`<npc::23>就这么点？ 肯定不够啊。`
 [/favor_dialog_exception]
 
 [favor_dialog_exception]

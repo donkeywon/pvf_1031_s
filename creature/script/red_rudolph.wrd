@@ -37,7 +37,7 @@
 		[enemies destroyed]
 			[rank over]
 				`b`
-				`这幺闪耀的时刻怎幺可以没有狗仔？`
+				`这么闪耀的时刻怎么可以没有狗仔？`
 				`这一刻，主人的光芒盖过了一切！！`
 			[/rank over]
 			[rank under]
@@ -89,7 +89,7 @@
 	[/room list]
 	[main game]
 		[eat feed]
-			`怎幺没人找我代言食物呢？`
+			`怎么没人找我代言食物呢？`
 			`我的嘴巴除了用来吃饭，就是歌唱~`
 		[/eat feed]
 		[none feed]

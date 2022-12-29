@@ -112,7 +112,7 @@
 
 [speech on situation]
 	[on damage]
-		`为什幺打我！`	100
+		`为什么打我！`	100
 	[on attack]
 		`给我往死里打！`	100	2
 [/speech on situation]

@@ -31,7 +31,7 @@
 			[hits under]
 				21
 				`主人，我要回去休息了，速度解决它们。`
-				`哼，这没什幺了不起的，我拍拍翅膀就能做到！`
+				`哼，这没什么了不起的，我拍拍翅膀就能做到！`
 			[/hits under]
 		[/enemies alive]
 		[enemies destroyed]
@@ -83,7 +83,7 @@
 			``
 		[/evolution]
 		[eat feed]
-			`怎幺又是宠物饲料？我要吃烤面包……`
+			`怎么又是宠物饲料？我要吃烤面包……`
 		[/eat feed]
 	[/room list]
 	[main game]
@@ -114,7 +114,7 @@
 		[pop random]
 			30	
 			[over skill gauge full]
-				`啊，浪费了我那幺多羽毛……T_T……`
+				`啊，浪费了我那么多羽毛……T_T……`
 				`主人放心，我随时待命！`
 			[/over skill gauge full]
 		[/pop random]

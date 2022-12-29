@@ -44,7 +44,7 @@
 
 [dialog]
 	3	1	99	-1	2	0
-	`<npc::21>完了！ 袖珍罐都碎了， 这可怎幺办?……`
+	`<npc::21>完了！ 袖珍罐都碎了， 这可怎么办?……`
 [/dialog]
 
 [favor_dialog]
@@ -54,7 +54,7 @@
 
 [favor_dialog]
 	3	0	1
-	`<npc::21>嗯， 和我一起~做生意吧， 怎幺样？`
+	`<npc::21>嗯， 和我一起~做生意吧， 怎么样？`
 [/favor_dialog]
 
 [favor_dialog]
@@ -119,12 +119,12 @@
 
 [favor_dialog]
 	2	1	2
-	`<npc::21>这东西……给我这种东西， 你怎幺想的……`
+	`<npc::21>这东西……给我这种东西， 你怎么想的……`
 [/favor_dialog]
 
 [favor_dialog]
 	2	2	0
-	`<npc::21>生意不怎幺样， 不过这礼物给了我安慰。`
+	`<npc::21>生意不怎么样， 不过这礼物给了我安慰。`
 [/favor_dialog]
 
 [favor_dialog]
@@ -159,7 +159,7 @@
 
 [favor_dialog]
 	1	1	1
-	`<npc::21>郁闷， 你有什幺事吗？`
+	`<npc::21>郁闷， 你有什么事吗？`
 [/favor_dialog]
 
 [favor_dialog]
@@ -189,7 +189,7 @@
 
 [favor_dialog]
 	0	0	1
-	`<npc::21>那你说~该怎幺办？`
+	`<npc::21>那你说~该怎么办？`
 [/favor_dialog]
 
 [favor_dialog]
@@ -228,7 +228,7 @@
 [/favor_dialog]
 
 [1st favor dialog]
-	`<npc::27>哼！ 你最近忙什幺呢， 都不来找我。`
+	`<npc::27>哼！ 你最近忙什么呢， 都不来找我。`
 [/1st favor dialog]
 
 [favor_dialog_exception]

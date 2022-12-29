@@ -180,7 +180,7 @@
 	[on appear]
 		`穆尼斯博士你在哪啊？`	50
 	[on die]
-		`博士……什幺时候来看缪缪呢……`	100
+		`博士……什么时候来看缪缪呢……`	100
 [/speech on situation]
 
 [no cooltime]

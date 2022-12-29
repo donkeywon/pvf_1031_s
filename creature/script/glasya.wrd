@@ -56,7 +56,7 @@
 		[pop random]
 			30	
 			[call the name]
-				`需要我做什幺尽管吩咐，我一切听您的。`
+				`需要我做什么尽管吩咐，我一切听您的。`
 			[/call the name]
 		[/pop random]
 		[pop random]
@@ -123,7 +123,7 @@
 			`主人，请不要拒绝我的帮助。`
 		[/over skill waiting]
 		[call the name]
-			`需要我做什幺尽管吩咐，我一切听您的。`
+			`需要我做什么尽管吩咐，我一切听您的。`
 		[/call the name]
 		[pop random]
 			20	

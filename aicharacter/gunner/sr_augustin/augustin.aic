@@ -86,7 +86,7 @@
 
 [speech on situation]
 	[on damage]
-		`莉莉安娜，干什幺呢！`	10
+		`莉莉安娜，干什么呢！`	10
 	[on die]
 		`我先走一步了~ ?_?`	20
 	[on appear]

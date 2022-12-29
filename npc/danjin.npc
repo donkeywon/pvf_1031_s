@@ -65,7 +65,7 @@
 
 [favor_dialog]
 	3	0	2
-	`<npc::8>人生就像赌博， 不试试， 怎幺知道自己的运气？`
+	`<npc::8>人生就像赌博， 不试试， 怎么知道自己的运气？`
 [/favor_dialog]
 
 [favor_dialog]
@@ -105,7 +105,7 @@
 
 [favor_dialog]
 	2	0	1
-	`<npc::8>嘿嘿， 谢谢你！ 虽然礼物不怎幺样， 但我知道你尽力了。`
+	`<npc::8>嘿嘿， 谢谢你！ 虽然礼物不怎么样， 但我知道你尽力了。`
 [/favor_dialog]
 
 [favor_dialog]
@@ -125,7 +125,7 @@
 
 [favor_dialog]
 	2	1	2
-	`<npc::8>啊， 这， 怎幺办？ 又不能直接拒绝……`
+	`<npc::8>啊， 这， 怎么办？ 又不能直接拒绝……`
 [/favor_dialog]
 
 [favor_dialog]
@@ -165,7 +165,7 @@
 
 [favor_dialog]
 	1	1	1
-	`<npc::8>哈哈， 请问你有什幺指示？`
+	`<npc::8>哈哈， 请问你有什么指示？`
 [/favor_dialog]
 
 [favor_dialog]

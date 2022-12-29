@@ -132,7 +132,7 @@
 
 [dialog on map start]
 	14
-	`<apc::-1>怎幺样？ 还想继续挑战吗？`
+	`<apc::-1>怎么样？ 还想继续挑战吗？`
 [/dialog on map start]
 
 [dialog on map complete]
@@ -253,7 +253,7 @@
 
 [dialog on map start]
 	26
-	`<apc::-1>这次， 我倒要看看你怎幺躲开他们的攻击！`
+	`<apc::-1>这次， 我倒要看看你怎么躲开他们的攻击！`
 [/dialog on map start]
 
 [dialog on map complete]

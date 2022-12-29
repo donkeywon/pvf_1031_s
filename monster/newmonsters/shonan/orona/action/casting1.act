@@ -9,7 +9,7 @@
 		`../animation/shawl/casting1.ani`	0	3
 	[/SUB ANI]
 	[SPEECH]
-		`能击碎它幺？？`	0	100
+		`能击碎它么？？`	0	100
 	[/SPEECH]
 	[SOUND]
 		`R_NENKWON_ATK_04`	3
