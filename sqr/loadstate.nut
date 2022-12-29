@@ -1,20 +1,29 @@
+
+
 sq_RunScript("dnf_enum_header.nut");
-sq_RunScript("common.nut");
-
-// Ä³¸¯ÅÍ ½ºÅ³ state
-sq_RunScript("Character/avenger_load_state.nut"); // ÇÁ¸®½ºÆ® - ¾îº¥Àú °ü·Ã nutÆÄÀÏ ·Îµù
-sq_RunScript("Character/atmage_load_state.nut"); // ³²¹ı»ç °ü·Ã nutÆÄÀÏ ·Îµù
-sq_RunScript("Character/CreatorMage_load_state.nut"); // ³²¹ı»ç °ü·Ã nutÆÄÀÏ ·Îµù
-sq_RunScript("Character/atfighter_load_state.nut"); // ³²¹ı»ç °ü·Ã nutÆÄÀÏ ·Îµù
-sq_RunScript("Character/atgunner_load_state.nut"); // ³²¹ı»ç °ü·Ã nutÆÄÀÏ ·Îµù
-sq_RunScript("Character/demonicswordman_load_state.nut"); // ³²¹ı»ç °ü·Ã nutÆÄÀÏ ·Îµù
-sq_RunScript("Character/fighter_load_state.nut"); // ³²¹ı»ç °ü·Ã nutÆÄÀÏ ·Îµù
-sq_RunScript("Character/gunner_load_state.nut"); // ³²¹ı»ç °ü·Ã nutÆÄÀÏ ·Îµù
-sq_RunScript("Character/mage_load_state.nut"); // ³²¹ı»ç °ü·Ã nutÆÄÀÏ ·Îµù
-sq_RunScript("Character/swordman_load_state.nut"); // ³²¹ı»ç °ü·Ã nutÆÄÀÏ ·Îµù
-sq_RunScript("Character/thief_load_state.nut"); // ³²¹ı»ç °ü·Ã nutÆÄÀÏ ·Îµù
-sq_RunScript("Character/common_load_state.nut"); // °øÅë½ºÅ³ nutÆÄÀÏ ·Îµù
+sq_RunScript("common.nut"); //
 
 
 
+// Ä³ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å³ state
+sq_RunScript("Character/avenger_load_state.nut"); // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® - ï¿½îº¥ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ nutï¿½ï¿½ï¿½ï¿½ ï¿½Îµï¿½
+sq_RunScript("Character/atmage_load_state.nut"); // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ nutï¿½ï¿½ï¿½ï¿½ ï¿½Îµï¿½
+sq_RunScript("Character/CreatorMage_load_state.nut"); // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ nutï¿½ï¿½ï¿½ï¿½ ï¿½Îµï¿½
+//sq_RunScript("character/drawmaincustomui.nut"); // ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ nutï¿½ï¿½ï¿½ï¿½ ï¿½Ò·ï¿½ï¿½ï¿½ï¿½ï¿½
+//sq_RunScript("Character/common_load_state.nut"); // ï¿½ï¿½ï¿½ë½ºÅ³ nutï¿½ï¿½ï¿½ï¿½ ï¿½Îµï¿½
+
+sq_RunScript("Character/buff_neo.nut");
+
+dofile("SoundPacks/dnftrain/summer_monster.nut"); // ì¥ì²­ nut ìˆ˜ë ¨ì¥
+dofile("SoundPacks/dnftrain/changqing_trainroom1.c"); // ì¥ì²­ nut ìˆ˜ë ¨ì¥
+dofile("SoundPacks/dnftrain/changqing_trainroom2.c"); // ì¥ì²­ nut ìˆ˜ë ¨ì¥
+dofile("SoundPacks/dnftrain/changqing_trainroom3.c"); // ì¥ì²­ nut ìˆ˜ë ¨ì¥
+dofile("chang_qing_nuts/main_monsterstats.nut"); // ëª¬ìŠ¤í„° nut ìƒíƒœ
+
+sq_RunScript("ui/main.nut");
+
+sq_RunScript("character/common/shoucuo.nut");
+sq_RunScript("character/common/damagerate.nut");
+
+sq_RunScript("arrangement/arrangement.nut");
 
