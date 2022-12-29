@@ -72,7 +72,7 @@
 
 [BEHAVIOR]
 	[SAY SPEECH]
-		`埃村~!`
+		`除游~!`
 	[TRIGGER]
 		3
 	[ON]
@@ -80,7 +80,7 @@
 
 [BEHAVIOR]
 	[SAY SPEECH]
-		`窍狙!!`
+		`憾!!`
 	[TRIGGER]
 		4
 	[ON]
@@ -88,7 +88,7 @@
 
 [BEHAVIOR]
 	[SAY SPEECH]
-		`玫! 瘤!`
+		`茧! 虽!`
 	[TRIGGER]
 		5
 	[ON]

@@ -2,6 +2,8 @@
 
 [LOOP]
 	1
+[SHADOW]
+	1
 [FRAME MAX]
 	2
 

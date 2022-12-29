@@ -15,7 +15,7 @@
 
 [BEHAVIOR]
 	[SAY SPEECH]
-		`啊~好累啊~~我先眯一会儿……`
+		`啊~好累啊~~我先瞇一会儿……`
 	[TRIGGER]
 	[ATTACK]
 		1	2

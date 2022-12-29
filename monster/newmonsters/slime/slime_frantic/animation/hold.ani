@@ -1,7 +1,7 @@
 #PVF_File
 
 [FRAME MAX]
-	14
+	12
 
 [FRAME000]
 	[IMAGE]
@@ -138,17 +138,3 @@
 		140
 	[DAMAGE BOX]
 	-30	-20	1	69	30	23
-
-[FRAME012]
-	[IMAGE]
-		``
-		0
-	[IMAGE POS]
-		0	0
-
-[FRAME013]
-	[IMAGE]
-		``
-		0
-	[IMAGE POS]
-		0	0

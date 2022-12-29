@@ -152,7 +152,7 @@
 [/attack info]
 
 [cooltime]
-	17000	10000	28000	10000	5000	15000	500
+	17000	10000	28000	100000	5000	15000	500
 [/cooltime]
 
 [stuckbonus on damage]
