@@ -1,0 +1,32 @@
+#PVF_File
+
+[name]
+	`1殿鞭 公祸 钮宏`
+
+[explain]
+	`傈捞傍埃俊辑父 唱坷绰 付过狼 塞阑 淬篮 倒. 农扒 累扒 亲惑 钮宏 屈怕甫 瘤聪绊 乐促`
+
+[grade]
+	1
+
+[attach type]
+	`[trade]`
+
+[usable job]
+	`[all]`
+[/usable job]
+
+[minimum level]
+	1
+
+[icon]
+	`Item/IconMaterial.img`	18
+
+[field image]
+	`Item/FieldImage.img`	30
+
+[stackable type]
+	`[material]`	1
+
+[move wav]
+	`CUBE_TOUCH`

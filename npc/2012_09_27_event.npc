@@ -1,0 +1,23 @@
+#PVF_File
+
+[name]
+	`月牙华`
+
+[field name]
+	`月牙华`
+
+[field animation]
+	`Animation/Twin_NPC.ani`
+
+[role]
+	`[dnf racing]`	0
+	`[dual raid channel]`	18
+[/role]
+
+[look around]
+	0
+
+[balloon message]
+	`龋龋~ 带颇扼捞歹 硅骂 匙 捞赤籍..`	5000
+	`瘤俩捞 罢飘狼 羔后 角氰角阑 嚼板沁促绰 家巩捞..`	5000
+[/balloon message]

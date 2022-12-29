@@ -1,0 +1,988 @@
+#PVF_File
+
+[command]
+	1
+	`System`
+	`GM 葛靛矫累`
+	`//dhflwls`
+	`[茄鸥 : 坷府柳]`
+
+[command]
+	2
+	`Character`
+	`饭骇 炼沥`
+	`//lv [1~70]`
+	``
+
+[command]
+	3
+	`Character`
+	`傈流`
+	`//grow [type] [grow]`
+	`type(1:傈流, 2:阿己), grow( 1(傀迄,郡付,迟付,坊廉,农风,肺弊)   2(滚几,歼荤,胶颇,繁贸,牢颇,荤飞)   3(家匡,硅皋,胶目,皋墨,硼付)   4(酒荐扼,付档,弊嶯,胶峭) )`
+
+[command]
+	5
+	`Character`
+	`见扁`
+	`//hide`
+	``
+
+[command]
+	6
+	`Character`
+	`焊捞扁`
+	`//show`
+	``
+
+[command]
+	7
+	`Item`
+	`酒捞袍 何福扁`
+	`//item 牢郸胶`
+	``
+
+[command]
+	8
+	`Item`
+	`捞拌狼 扁款 厘厚 何福扁`
+	`//dirty 牢郸胶`
+	``
+
+[command]
+	9
+	`Item`
+	`酒官鸥 何福扁`
+	`//avatar 牢郸胶 扁茄 瓷仿摹`
+	``
+
+[command]
+	10
+	`Monster`
+	`阁胶磐 傈戈 1`
+	`//kill`
+	`泅犁 规狼 阁胶磐 傈戈`
+
+[command]
+	11
+	`Monster`
+	`阁胶磐 傈戈 2`
+	`//allkill`
+	`菊栏肺 柳涝窍绰 葛电 规狼 阁胶磐 傈戈`
+
+[command]
+	12
+	`Monster`
+	`阁胶磐 傈戈 3`
+	`//kill u`
+	`坷宏璃飘, 焊胶 器窃 葛电 利阑 颇鲍`
+
+[command]
+	13
+	`Monster`
+	`阁胶磐 傈戈 4`
+	`//kill all`
+	`坷宏璃飘, 焊胶 器窃 葛电 利, 酒焙 颇鲍`
+
+[command]
+	14
+	`Quest`
+	`涅胶飘 罐扁`
+	`//quest 牢郸胶`
+	``
+
+[command]
+	15
+	`Quest`
+	`涅胶飘 肯丰`
+	`//q 牢郸胶`
+	``
+
+[command]
+	16
+	`Creature`
+	`农府媚 版氰摹 炼例`
+	`//creature exp 沥荐`
+	``
+
+[command]
+	17
+	`Creature`
+	`农府媚 父汗档`
+	`//creature fill (沥荐)`
+	``
+
+[command]
+	18
+	`Creature`
+	`农府媚柳拳`
+	`//creature evolution 1 1`
+	``
+
+[command]
+	19
+	`Creature`
+	`农府媚柳拳`
+	`//upgrade success`
+	``
+
+[command]
+	20
+	`Item`
+	`碍拳 角菩`
+	`//upgrade fail`
+	``
+
+[command]
+	21
+	`Town`
+	`瘤开捞悼`
+	`//move area x y`
+	`ex : 勤捣付捞绢 捞悼矫 //move area 2 1`
+
+[command]
+	22
+	`Contents`
+	`胶鸥老 荐摹 炼例`
+	`//style 1~100`
+	`疙飞绢 涝仿饶 傍拜咀记阑 秒秦具 利侩凳`
+
+[command]
+	23
+	`Contents`
+	`抛农葱 荐摹 炼例`
+	`//technic 1~100`
+	`疙飞绢 涝仿饶 傍拜咀记阑 秒秦具 利侩凳`
+
+[command]
+	24
+	`Contents`
+	`霓焊 荐摹 炼例`
+	`//combo 1~100`
+	``
+
+[command]
+	25
+	`User`
+	`唱捞 汲沥`
+	`//age 1~100`
+	``
+
+[command]
+	26
+	`Character`
+	`搬捧 殿鞭 函版`
+	`//pvprank 0~34`
+	`0[10鞭] ~ 34[捧脚]`
+
+[command]
+	27
+	`Character`
+	`钒器牢飘 炼例`
+	`//luckpoint 沥荐`
+	``
+
+[command]
+	28
+	`Character`
+	`惑怕函拳`
+	`//activestatus 0 辆幅 饭骇 矫埃 单固瘤`
+	`矫埃 扁霖篮 剐府檬 (5檬 -> 5000)\n//activestatus 0 stone 5 5000 500 -> 磊扁磊脚茄抛 5饭骇 籍拳甫 5檬悼救 籍拳啊 钱府搁 500单固瘤\n//activestatus 0 haste 10 100000 10 10 -> 磊扁磊脚茄抛 10饭骇 庆捞胶飘甫 100檬悼救 傍加 10% 捞加 10% 刘啊\n惑怕捞惑 辆幅 : blind,freeze,stun,slow,haste,sleep,confuse,hold,poison,lightning,bleeding,burn,bless,curse`
+
+[command]
+	29
+	`Character`
+	`HP 炼沥	`
+	`//sethp 沥荐`
+	``
+
+[command]
+	30
+	`Character`
+	`付阑狼 富介里捞 on`
+	`//troublemaker on`
+	``
+
+[command]
+	31
+	`Character`
+	`付阑狼 富介里捞 off`
+	`//troublemaker off`
+	``
+
+[command]
+	32
+	`Character`
+	`惯牧瘤荐 炼沥`
+	`//bal 沥荐`
+	``
+
+[command]
+	33
+	`Guild`
+	`辨靛版氰摹 惑铰`
+	`//guild exp 沥荐`
+	``
+
+[command]
+	34
+	`Guild`
+	`辨靛 企尖`
+	`//delguld`
+	`泅犁绰 //ud 44 荤侩`
+
+[command]
+	35
+	`Contents`
+	`内牢 家葛`
+	`//coin 家葛且荐樊`
+	`//coin 10 -> 内牢10俺甫 家葛`
+
+[command]
+	36
+	`System`
+	`PC规葛靛ON`
+	`//add item -1`
+	`郴何俊辑 乔矫规栏肺 父甸荐 乐澜 扁埃篮 窍风`
+
+[command]
+	37
+	`Contents`
+	`傈巩流诀 槛访档 刘啊`
+	`//expert exp 沥荐`
+	``
+
+[command]
+	38
+	`Item`
+	`酒捞袍 漂荐瓤苞 惯悼	`
+	`//itemeffecttest`
+	`茄锅 静搁 100%惯悼, 促矫静搁 盔贰措肺 函版, if备巩阑 荤侩窍绰 厘厚父 利侩凳`
+
+[command]
+	39
+	`Skill`
+	`酿鸥烙 昏力`
+	`//nocool`
+	`荤侩矫 酿鸥烙捞 绝绢咙, 付阑肺 倒酒哎版快 沥惑拳`
+
+[command]
+	40
+	`Contents`
+	`NPC 龋皑档 荐摹 炼沥`
+	`//npcfav npc锅龋 龋皑档荐摹`
+	`<秦寸NPC俊霸 茄锅捞扼档 急拱阑 亲饶 角青 窍咯具 窃>\n龋皑档 0~999 : 1窜拌\n龋皑档 1000~1999 : 2窜拌(焊烹)\n龋皑档 2000~2999 : 3窜拌(龋皑)\n龋皑档 3000~3200 : 4窜拌(脚汾)\nNPC 牢郸胶 : 寇何颇老 曼炼`
+
+[command]
+	41
+	`Contents`
+	`NPC 龋皑档 脚汾 蜡瘤 老荐 炼沥`
+	`//favterm npc锅龋 脚汾蜡瘤老磊`
+	`脚汾惑怕牢版快俊 荤侩窍咯具 窃, 扁霖篮 祉 窜困`
+
+[command]
+	42
+	`Contents`
+	`瘤苛颇萍 何福扁`
+	`//sumhell 瘤苛颇萍弊缝锅龋`
+	`(颇付籍阑 捞侩茄 瘤苛颇萍 涝厘饶, 瘤苛颇萍规 柳涝傈俊 疙飞绢 涝仿窍咯具 窃)\n瘤苛颇萍弊缝锅龋 : 寇何颇老 曼炼`
+
+[command]
+	43
+	`Guild`
+	`辨靛 饭骇诀`
+	`//guild level up`
+	`1饭骇究 棵扼皑\n弥绊饭骇鳖瘤 棵府绰巴捞 酒聪搁 辨靛版氰摹氓栏肺 饭骇诀 且巴`
+
+[command]
+	44
+	`Contents`
+	`技仿带傈 涝厘 啊瓷拳`
+	`//sdale 沥荐`
+	`辑带单老涝厘捞 啊瓷窍霸 登绰 疙飞绢, 沥荐 荐摹 父怒 俺牢 技仿傈 器牢飘甫 瘤鞭窃`
+
+[command]
+	45
+	`Contents`
+	`技仿傈 矫累`
+	`//power war start`
+	``
+
+[command]
+	46
+	`Contents`
+	`技仿傈 辆丰`
+	`//power war end`
+	``
+
+[command]
+	47
+	`Contents`
+	`A技仿 曼啊`
+	`//power join a`
+	``
+
+[command]
+	48
+	`Contents`
+	`B技仿 曼啊`
+	`//power join b`
+	``
+
+[command]
+	49
+	`Contents`
+	`颇况诀 颇萍 积己`
+	`//power up/down`
+	``
+
+[command]
+	50
+	`Contents`
+	`技仿傈 楷铰 冉荐 炼例`
+	`//power win (冉荐)`
+	`技仿傈 楷铰 冉荐 炼例. 泅犁绰  //ud 43 荤侩`
+
+[command]
+	51
+	`Contents`
+	`公茄狼 力窜 BP刘啊`
+	`//bp 1~99999`
+	``
+
+[command]
+	52
+	`Contents`
+	`付阑魔傍 矫累`
+	`//townatk 矫埃(檬)`
+	``
+
+[command]
+	53
+	`Contents`
+	`付阑魔傍阑 己傍栏肺 场郴扁`
+	`//townatk success`
+	``
+
+[command]
+	54
+	`Contents`
+	`付阑魔傍阑 角菩肺 场郴扁`
+	`//townatk fail`
+	``
+
+[command]
+	55
+	`Contents`
+	`付阑魔傍 角菩其澄萍 绝局扁`
+	`//townatk end`
+	``
+
+[command]
+	56
+	`System`
+	`颇萍努 箭磊 炼辆`
+	`//make hit object 箭磊`
+	``
+
+[command]
+	57
+	`Monster`
+	`阁胶磐啊 被阑矫 疙飞绢 1`
+	`//showmaster`
+	`泅犁 各苞 菩矫宏 坷宏璃飘狼 controlmaster 甫 焊咯凛聪促. 茄锅 歹 涝仿且 版快 荤扼笼聪促.`
+
+[command]
+	58
+	`Monster`
+	`阁胶磐啊 被阑矫 疙飞绢 2`
+	`//validatemaster`
+	`俊捞怜矫啊 静饭扁 controlmaster 甫 汗备 秦凛聪促. 某腐磐啊 被菌阑锭 巩力甫 柳窜且 荐 乐嚼聪促.`
+
+[command]
+	59
+	`Item`
+	`厘厚刘气芒ON`
+	`//amplifywindow`
+	``
+
+[command]
+	60
+	`Item`
+	`骏喉方 钦己芒 凯扁`
+	`//compound emblem`
+	``
+
+[command]
+	61
+	`Contents`
+	`某腐磐尝烙呕免`
+	`//某腐磐尝烙呕免`
+	``
+
+[command]
+	62
+	`Contents`
+	`酒捞袍尝烙呕免`
+	`//酒捞袍尝烙呕免`
+	``
+
+[command]
+	63
+	`System`
+	`概农肺累己`
+	`//rec start/end/play`
+	``
+
+[command]
+	64
+	`Character`
+	`泅犁 某腐磐 胶湃 焊咯林扁`
+	`//spd`
+	`捞悼加档, 傍拜加档, 某胶泼 加档狼 角荐摹甫 焊咯淋, 荤侩后档绰 臭瘤臼澜`
+
+[command]
+	65
+	`Character`
+	`浇肺快 葛记 扁瓷`
+	``
+	`瘤骏葛靛矫\nNumpad狼 1 阑 穿福搁 加档啊 盔贰狼 30% 啊 登搁辑 slow mode 啊 登绊 Numpad狼 2甫 穿福搁 加档啊 盔贰措肺 倒酒坷哥 slow mode 啊 场唱绊 slow mode 老 锭 敲矾胶, 付捞呈胶 虐甫 穿福搁 加档啊 5% 窜困肺 炼沥邓聪促.`
+
+[command]
+	66
+	`Item`
+	`厘厚 郴备档 家葛 扁瓷`
+	`//durable 浇吩锅龋 郴备档荐摹`
+	`困摹(浇吩锅龋) : 公扁(10),莫龋(11),惑狼(12),绢柄(13),窍狼(14),脚惯(15),倾府(16),格吧捞(17),迫骂(18),馆瘤(19),焊炼(20),付过籍(21)`
+
+[command]
+	67
+	`Character`
+	`乔肺档 家葛`
+	`//fatigue 沥荐`
+	`//fatigue 10 : 10父怒 家葛窃`
+
+[command]
+	68
+	`Character`
+	`乔肺档 汲沥`
+	`//fatigue set 沥荐`
+	`//fatigue set 10 : 巢篮 乔肺档啊 10捞凳`
+
+[command]
+	69
+	`Item`
+	`酒捞袍 茄锅俊 咯矾俺 荤侩窍扁`
+	`//use item 狞浇吩锅龋 荤侩俺荐`
+	``
+
+[command]
+	70
+	`Contents`
+	`俺牢技仿傈 器牢飘`
+	`//power userpoint 荐摹`
+	``
+
+[command]
+	71
+	`Contents`
+	`辨靛 技仿傈 器牢飘`
+	`//power guildpoint 荐摹`
+	``
+
+[command]
+	72
+	`Item`
+	`(牢亥配府 葛滴 厚快扁)`
+	`//ud 37	//empty inven`
+	``
+
+[command]
+	73
+	`Item`
+	`(酒官鸥 牢亥配府 葛滴 厚快扁)`
+	`//ud 38	//empty avat`
+	``
+
+[command]
+	74
+	`System`
+	`盲泼汗荤`
+	`零骏 葛靛俊辑 Ctrl+V`
+	``
+
+[command]
+	75
+	`Event`
+	`捞亥飘 矫累`
+	`//startevent 捞亥飘锅龋`
+	`捞亥飘 矫累矫 parameter啊 鞘夸茄 版快绰 促澜苞 鞍捞 荤侩窍矫搁 邓聪促. //startevent 捞亥飘锅龋 颇扼固磐1 颇扼固磐2 ∝ 夯 疙飞篮 葛聪磐辑滚甫 芭摹扁 锭巩俊, 葛聪磐客 楷搬等 傈 霸烙辑滚俊 利侩邓聪促.`
+
+[command]
+	76
+	`Event`
+	`捞亥飘 辆丰`
+	`//endevent 捞亥飘锅龋`
+	``
+
+[command]
+	77
+	`Monster`
+	`阁胶磐 龋免`
+	`//tm 阁胶磐牢郸胶 饭骇`
+	`阁胶磐 牢郸胶绰 矫飘 曼炼(Act1 ~ ETC)`
+
+[command]
+	78
+	`Contents`
+	`拌沥 芒绊 昏力`
+	`//cargo delete`
+	`犁立加 鞘夸`
+
+[command]
+	79
+	`Contents`
+	`捞拌带傈 涝厘冉荐 檬扁拳`
+	`//dimen max`
+	``
+
+[command]
+	80
+	`Contents`
+	`带傈 涝厘 角菩`
+	`//blockloading`
+	``
+
+[command]
+	81
+	`System`
+	`努赴菩靛荐摹 撤眠扁`
+	`//cppoint 荐摹`
+	``
+
+[command]
+	82
+	`System`
+	`努赴菩靛 剁快扁`
+	`//cpopen`
+	``
+
+[command]
+	83
+	`Item`
+	`3瞒 农肺聪努 付何 角菩`
+	`//3chro fail`
+	``
+
+[command]
+	84
+	`Item`
+	`3瞒 农肺聪努 付何 己傍`
+	`//3chro success`
+	``
+
+[command]
+	85
+	`Item`
+	`3瞒 农肺聪努 付何 盔贰措肺`
+	`//3chro reset`
+	``
+
+[command]
+	86
+	`Contents`
+	`必茄狼 力窜阑 凯绊 摧绰 疙飞绢`
+	`//ud 55 0/1`
+	`0篮 close, 1篮 open`
+
+[command]
+	87
+	`Contents`
+	`必茄狼 力窜 涝厘冉荐 檬扁拳`
+	`//ulti max`
+	``
+
+[command]
+	88
+	`System`
+	`酒捞袍 皋老 焊郴扁`
+	`//mailitem 酒捞袍牢郸胶`
+	`涝仿茄 酒捞袍 牢郸胶狼 酒捞袍 1俺甫. 家器肺 谨凛聪促`
+
+[command]
+	89
+	`Contents`
+	`APC 何福扁`
+	`//testai index`
+	``
+
+[command]
+	90
+	`Contents`
+	`啊宏府郡 家券`
+	`//shopnpc 1001/1002`
+	``
+
+[command]
+	91
+	`Character`
+	`某腐磐 技泼`
+	`//super 饭骇 流诀疙`
+	`饭骇篮 45~70 备埃啊瓷, 流诀疙篮 流诀疙徘 曼炼`
+
+[command]
+	92
+	`System`
+	`单固瘤 固磐扁`
+	`//lab`
+	`欺挤茄沥, 单固瘤 固磐扁 焊捞扁`
+
+[command]
+	93
+	`Item`
+	`何胶磐鸥涝狼 酒捞袍 搬苞眉农`
+	`//checklottoitem (//cli) 酒捞袍牢郸胶`
+	``
+
+[command]
+	94
+	`Item`
+	`酒捞袍 靛而矫虐扁`
+	`//dropitem`
+	``
+
+[command]
+	95
+	`Character`
+	`橇府固决(ex:拌距幅) 瘤快扁`
+	`//premiumdelete (//pd)`
+	``
+
+[command]
+	96
+	`Creature`
+	`农府媚 霸捞瘤 钱肺 盲快扁`
+	`//creature full`
+	``
+
+[command]
+	97
+	`Contents`
+	`傈里瘤开 矫累`
+	`//startwarroom`
+	`傈里瘤开阑 去磊辑档 矫累且 荐 乐绰 疙飞绢`
+
+[command]
+	98
+	`Contents`
+	`傈里瘤开 涝厘 UI 劝己拳`
+	`//smtw`
+	``
+
+[command]
+	99
+	`Guild`
+	`辨靛免籍 檬扁拳`
+	`//guilddebug 0`
+	``
+
+[command]
+	100
+	`Guild`
+	`坷疵狼 辨靛盔 檬扁拳`
+	`//guilddebug 1`
+	``
+
+[command]
+	101
+	`Guild`
+	`辨靛 陛咀 技泼`
+	`//guildfund 陛咀`
+	``
+
+[command]
+	102
+	`Contents`
+	`傍搬固记 辆幅 蔼 函版`
+	`//mission [kind] [value]`
+	`爱绊乐绰 kind狼 固记狼 value甫 函版 矫诺聪促.`
+
+[command]
+	103
+	`Contents`
+	`傍搬固记 坷疵狼 固记 货肺 罐扁`
+	`//newDailyMission`
+	``
+
+[command]
+	104
+	`Contents`
+	`傍搬固记 固记 努府绢`
+	`//clearMission [index]`
+	`爱绊 乐绰 固记index甫 努府绢 钦聪促`
+
+[command]
+	105
+	`Contents`
+	`傍搬固记 固记辆幅 努府绢`
+	`//clearMissionKind [kind]`
+	`爱绊 乐绰 固记 kind甫 努府绢 钦聪促`
+
+[command]
+	106
+	`Contents`
+	`傍搬固记 固记 府胶飘 檬扁拳`
+	`//resetMissionList`
+	`固记 府胶飘甫 较! 檬扁拳 窍绊 促矫 罐嚼聪促. 坷疵狼 固记篮 罐瘤 臼嚼聪促`
+
+[command]
+	107
+	`Contents`
+	`带傈俊辑 急琶 阁胶磐 磷捞扁`
+	`//dunstool`
+	`阁胶磐甫 努腐, 牧飘费 努腐(促荐 急琶)窍咯 急琶茄 饶 del虐甫 穿福搁 阁胶磐甫 力芭 啊瓷钦聪促.`
+
+[command]
+	108
+	`Contents`
+	`涅胶飘 带傈 焊捞扁`
+	`//showdg 0/1`
+	`涅胶飘甫 啊瘤绊乐阑锭父 畴免登档废 父电 涅胶飘带傈捞 零骏葛靛肺 甸绢哎 版快 促 畴免捞 登搁辑 犬牢捞 力措肺 登瘤臼绰 泅惑捞 乐绢辑, 零骏葛靛捞歹扼档 疙飞绢甫 摹搁 畴免登瘤 臼档废 窍绰 疙飞绢甫 俺惯沁嚼聪促`
+
+[command]
+	109
+	`Contents`
+	`鸥拜裹困 眉农`
+	`//showbox`
+	`胶懦 鸥拜裹困甫 焊咯淋`
+
+[command]
+	110
+	`Contents`
+	`滚醋胶抛捞瘤 魄荐 炼例`
+	`//burningstage [魄荐]`
+	`滚醋 胶抛捞瘤 魄荐 汲沥`
+
+[command]
+	111
+	`Item`
+	`单固瘤 荐摹 绊沥`
+	`//no random`
+	`老沥裹困狼 单固瘤 荐摹甫 绊沥蔼栏肺 函版秦淋`
+
+[command]
+	112
+	`Item`
+	`罚待可记酒捞袍 积己`
+	`//randitem 牢郸胶 可记1 可记1 荐摹%`
+	`可记捞 碍力肺 何咯等 酒捞袍阑 阂矾咳. 弥措 3俺狼 可记 何咯啊瓷 //randitem 21002123 120 30 143 70 43 50  - 120锅 可记 30% 荐摹, 143锅 可记 70% 荐摹, 43锅 可记 50% 荐摹`
+
+[command]
+	113
+	`Item`
+	`墨靛 钦己 搬苞焊扁`
+	`//monstercardbind (//mcb) 墨靛牢郸胶1 墨靛牢郸胶2`
+	`努扼捞攫飘 弃歹 郴俊 搬苞 颇老捞 积己邓聪促. ex) mcb_3605_3606.txt (抛胶飘俊 荤侩等 阁胶磐 墨靛狼 牢郸胶啊 器窃邓聪促) 林狼荤亲) 涝仿窍绰 阁胶磐墨靛狼 饭绢府萍啊 辑肺 鞍酒具 钦聪促.`
+
+[command]
+	114
+	`Contents`
+	`荤啪 摸捞悼`
+	`//tower 摸荐`
+	`疙飞绢 涝仿 饶 秦寸摸 努府绢甫 且 版快 疙飞绢肺 涝仿茄 摸栏肺 捞悼`
+
+[command]
+	115
+	`System`
+	`厘厚力累槛访档 函版`
+	`//itemskill 槛访档鸥涝 value`
+	`饭骇 力茄 捞惑狼 荐摹绰 利侩捞 救凳.\n槛访档 棺 饭骇力茄俊 舅嘎篮 荐摹父 扁涝窍咯 荤侩 - 槛访档 鸥涝 : 0(公扁), 1(玫), 2(啊磷), 3(版癌), 4(吝癌), 5(魄陛), 6(格吧捞), 7(迫骂), (8馆瘤)`
+
+[command]
+	116
+	`Item`
+	`饭辑乔 犁丰 茄锅俊 掘扁`
+	`//recipe 饭辑乔牢郸胶`
+	`秦寸 饭辑乔狼犁丰啊 100俺究 瘤鞭凳`
+
+[command]
+	117
+	`Item`
+	`酒捞袍 牢郸胶 焊扁`
+	`//showindex`
+	`目辑肺 急琶茄 酒捞袍 棺 涅胶飘(急青 器窃)狼 牢郸胶啊 踌祸栏肺 钎矫 凳`
+
+[command]
+	118
+	`Contents`
+	`例噶狼 啪 捞悼 疙飞绢`
+	`//wjfakd (摸荐-1)`
+	`EX) 2摸 捞悼 //wjfakd 1`
+
+[command]
+	119
+	`System`
+	`莫龋合 - 崔己档 炼例`
+	`//tb 涅胶飘牢郸胶 崔己%`
+	`抗 : //tb 4342 99 (4342 涅胶飘甫 99 % 崔己) //tb 肺 99 % 崔己窍脚饶 度鞍篮 疙飞绢甫 促矫 涝仿窍矫搁 巢篮 俺荐俊辑 促矫 99% 崔己邓聪促.`
+
+[command]
+	120
+	`System`
+	`莫龋合 - 诀利/莫龋合 檬扁拳`
+	`//ac reset`
+	``
+
+[command]
+	121
+	`System`
+	`莫龋合 - 莫龋合父 檬扁拳`
+	`//tb reset`
+	``
+
+[command]
+	122
+	`System`
+	`莫龋合 - 漂沥诀利 崔己`
+	`//ac clear [诀利id]`
+	``
+
+[command]
+	123
+	`System`
+	`莫龋合 - 葛电 诀利 崔己`
+	`//ac all`
+	``
+
+[command]
+	124
+	`Contents`
+	`傍搬 霓焊固记 努府绢`
+	`//clearcombo`
+	``
+
+[command]
+	125
+	`Item`
+	`罚待 酒捞袍 抛胶飘 搬苞 眉农`
+	`//checklottoitem(//cli) (item_id) (倒副冉荐)`
+	`冉荐啊 积帆登搁 10000锅 倒赴 搬苞 蔼. 瘤唱摹霸 奴 荐肺 倒府霸 登搁 辑滚啊 罚待酒捞袍 惶绰 何窍啊 农聪 怖 鞘夸且矫俊 荤侩 何殴靛赋聪促`
+
+[command]
+	126
+	`Item`
+	`官牢靛 钮宏 抛胶飘`
+	`//checkbind (//cbind)`
+	``
+
+[command]
+	127
+	`Item`
+	`酒捞袍 砒屏 烹掳肺 眠免 扁瓷`
+	`//exportitemtext (//eit)`
+	`酒捞袍(胶怕目喉, 厘厚, 酒官鸥 公包) 困俊 目辑甫 措绊 酒捞袍 砒屏捞 夺 惑怕肺 F4 虐甫 穿福搁 iteminfo.txt 扼绰 颇老肺 葛电 酒捞袍 沥焊啊 咆胶飘肺 免仿邓聪促`
+
+[command]
+	128
+	`System`
+	`规价侩 搬捧厘 贸烦 父甸扁`
+	`//tournament on/off`
+	`疙飞绢 涝仿饶 搬捧厘 盲澄 柳涝`
+
+[command]
+	129
+	`Item`
+	`酒捞袍 殿鞭 眠免`
+	`//itemseed x y`
+	`x绰 酒捞袍 牢郸胶 y绰 randseed 疙飞绢肺 惶篮 矫靛蔼阑 涝仿秦 林矫搁 邓聪促. y绰 殿鞭 -100(弥窍鞭) ~ 0(吝鞭) ~ 100(弥惑鞭) 涝聪促`
+
+[command]
+	130
+	`System`
+	`GM 目盖靛甘 扩档快 焊扁`
+	`//showcmd`
+	`瘤陛 焊绊 拌矫绰 捞 芒阑 剁快绰 疙飞涝聪促. 催捞 刚历衬 崔翱捞 刚历衬?`
+
+[command]
+	131
+	`Quest`
+	`涅胶飘 磊悼 肯丰`
+	`//autopass`
+	`涅胶飘甫 荐遏窍搁 //questclear2 牢郸胶甫 涝仿茄 巴贸烦 磊悼栏肺 肯丰鳖瘤 秦霖促`
+
+[command]
+	132
+	`System`
+	`扑诀 扩档快 剁快扁`
+	`//opw 扑诀扩档快牢郸胶`
+	`漂沥牢郸胶狼 扑诀扩档快甫 剁矿聪促.IRDPopupWindow::POPUP_WINDOW_TYPE_MAX蔼 曼绊`
+
+[command]
+	133
+	`Creature`
+	`农府媚 厘馒`
+	`//setCreature 农府媚牢郸胶`
+	`带傈俊辑 秦寸 农府媚甫 厘馒钦聪促. (叼滚弊葛靛俊辑父 累悼)`
+
+[command]
+	134
+	`System`
+	`捞固瘤 版肺 焊咯林扁`
+	`//imgpath 1 0 肚绰 积帆`
+	`付快胶 目辑 困摹俊 乐绰 捞固瘤狼 版肺甫 焊咯凛聪促. (疙飞绢 第俊 1篮 焊捞扁, 0篮 见扁扁, 积帆篮 配臂)`
+
+[command]
+	135
+	`Quest`
+	`秦寸 饭骇 葛电 俊侨涅胶飘 肯丰`
+	`//lvclear (饭骇1) (饭骇2)`
+	`饭骇1, 饭骇2 葛滴 积帆 矫 某腐磐狼 泅犁 饭骇, 饭骇2 积帆 矫 饭骇1, 葛滴 乐阑 矫俊绰 饭骇1 ~ 饭骇2 荤捞狼 葛电 俊侨涅胶飘甫 努府绢钦聪促. (焊惑 绝澜)`
+
+[command]
+	136
+	`Character`
+	`胶懦 眠啊`
+	`//add skill (胶懦牢郸胶 or all) (饭骇)`
+	`秦寸 胶懦牢郸胶唱 all狼 版快 秦寸某腐磐狼 葛电 胶懦阑 秦崔 饭骇肺 官策聪促. 绝栏搁 眠啊秦 凛聪促.`
+
+[command]
+	137
+	`Item`
+	`技飘酒捞袍 茄 锅俊 掘扁`
+	`//itemset 惑狼酒捞袍(酒官鸥)牢郸胶`
+	`技飘 酒捞袍阑 疙飞绢 窍唱肺 茄 锅俊 父甸绢凛聪促`
+
+[command]
+	138
+	`Contents`
+	`努府绢 珐农 炼例窍扁`
+	`//setrank (//sr) [荐摹(积帆啊瓷) 肚绰 off]`
+	`带傈 努府绢 矫 霓焊饭捞飘 荐摹甫 绊沥秦凛聪促`
+
+[command]
+	139
+	`Contents`
+	`付快胶目辑 困摹 焊扁/掺扁(DEBUG)`
+	`//showpos on/off`
+	`泅犁 付快胶 目辑 x.y困摹甫 矫胶袍 皋技瘤芒俊 免仿`
+
+[command]
+	140
+	`Contents`
+	`甘沥焊 焊捞扁(DEBUG)`
+	`//showmap`
+	`泅犁 map狼 沥焊甫 拳搁俊 免仿`
+
+[command]
+	141
+	`System`
+	`傈眉蜡历 PC规葛靛ON OFF`
+	`//pcroom on`
+	`郴何俊辑 乔矫规栏肺 父甸荐 乐澜, 傈眉蜡历 利侩, off矫 犁立加`
+
+[command]
+	142
+	`Contents`
+	`付老府瘤讥 ON OFF`
+	`//showmgs , //showmileageshop`
+	`技扼讥 付老府瘤讥 On/Off`

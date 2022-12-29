@@ -1,0 +1,54 @@
+#PVF_File
+
+[set name]
+	`措瘤狼 力拘磊 技飘`
+
+[piece set ability]
+	3	
+	[skill data up]
+		`[priest]`	39	`[dungeon type]`	`[static]`	1	`%`	20
+		`[priest]`	70	`[dungeon type]`	`[cooltime]`	0	`+`	-1000
+		`[priest]`	70	`[dungeon type]`	`[level]`	3	`%`	25
+		`[priest]`	106	`[dungeon type]`	`[level]`	0	`%`	15
+		`[priest]`	106	`[dungeon type]`	`[level]`	1	`%`	15
+	[/skill data up]
+	[parameter basic explain]
+		`力拘何 裹困 20%% 刘啊 / 傍狼 侥脚 - 归龋 酿鸥烙 1檬 皑家, 傍拜仿 25%% 刘啊 / 林累何 傍拜仿 15%% 刘啊`
+[/piece set ability]
+
+[piece set ability]
+	6	
+	[skill data up]
+		`[priest]`	70	`[dungeon type]`	`[level]`	0	`+`	5000
+		`[priest]`	70	`[dungeon type]`	`[static]`	10	`+`	-400
+		`[priest]`	70	`[dungeon type]`	`[static]`	11	`+`	-300
+		`[priest]`	70	`[dungeon type]`	`[static]`	12	`+`	-50
+		`[priest]`	40	`[dungeon type]`	`[cooltime]`	0	`+`	-2000
+		`[priest]`	40	`[dungeon type]`	`[level]`	2	`+`	1
+		`[priest]`	40	`[dungeon type]`	`[static]`	2	`%`	-25
+		`[priest]`	106	`[dungeon type]`	`[cooltime]`	0	`+`	-1000
+		`[priest]`	106	`[dungeon type]`	`[static]`	0	`%`	10
+		`[priest]`	106	`[dungeon type]`	`[static]`	1	`%`	10
+		`[priest]`	106	`[dungeon type]`	`[level]`	0	`%`	15
+		`[priest]`	106	`[dungeon type]`	`[level]`	1	`%`	15
+	[/skill data up]
+	[parameter basic explain]
+		`傍狼 侥脚 - 归龋 瘤加矫埃 5檬 刘啊, 2/3/4俺 积己矫 惯荤 酿鸥烙 皑家 / 倡汾何 酿鸥烙 2檬 皑家, 弥措 锅俺荐 1 刘啊, 锅俺 酿鸥烙 25%% 皑家 / 林累何 酿鸥烙 1檬 皑家, 裹困 10%% 刘啊`
+[/piece set ability]
+
+[piece set ability]
+	9	
+	[skill data up]
+		`[priest]`	40	`[dungeon type]`	`[cooltime]`	0	`+`	-3000
+		`[priest]`	40	`[dungeon type]`	`[level]`	2	`+`	1
+		`[priest]`	40	`[dungeon type]`	`[static]`	1	`%`	20
+		`[priest]`	40	`[dungeon type]`	`[level]`	0	`%`	20
+		`[priest]`	40	`[dungeon type]`	`[level]`	1	`%`	15
+		`[priest]`	69	`[dungeon type]`	`[static]`	6	`+`	4
+		`[priest]`	69	`[dungeon type]`	`[static]`	7	`+`	4
+		`[priest]`	69	`[dungeon type]`	`[static]`	8	`+`	2
+		`[priest]`	69	`[dungeon type]`	`[static]`	9	`+`	2
+	[/skill data up]
+	[parameter basic explain]
+		`倡汾何 酿鸥烙 3檬 皑家, 弥措 锅俺荐 1 刘啊, 裹困 20%% 刘啊, 瘤加矫埃 20%% 刘啊, 傍拜仿 15%% 刘啊 / 瘤狼 侥脚 - 泅公 猫乔攫/匙烙靛/焊胶/秋阁胶磐 棱绰矫埃厚啦 刘啊 倡汾何 酿鸥烙 3檬 皑家, 弥措 锅俺荐 1 刘啊, 裹困 20%% 刘啊, 瘤加矫埃 20%% 刘啊, 傍拜仿 15%% 刘啊 / 瘤狼 侥脚 - 泅公 猫乔攫/匙烙靛/焊胶/秋阁胶磐 棱绰矫埃厚啦 刘啊 倡汾何 酿鸥烙 3檬 皑家, 弥措 锅俺荐 1 刘啊, 裹困 20%% 刘啊, 瘤加矫埃 20%% 刘啊, 傍拜仿 15%% 刘啊 / 瘤狼 侥脚 - 泅公 猫乔攫/匙烙靛/焊胶/秋阁胶磐 棱绰矫埃厚啦 刘啊 倡汾何 酿鸥烙 3檬 皑家, 弥措 锅俺荐 1 刘啊, 裹困 20%% 刘啊, 瘤加矫埃 20%% 刘啊, 傍拜仿 15%% 刘啊 / 瘤狼 侥脚 - 泅公 猫乔攫/匙烙靛/焊胶/秋阁胶磐 棱绰矫埃厚啦 刘啊 倡汾何 酿鸥烙 3檬 皑家, 弥措 锅俺荐 1 刘啊, 裹困 20%% 刘啊, 瘤加矫埃 20%% 刘啊, 傍拜仿 15%% 刘啊`
+[/piece set ability]

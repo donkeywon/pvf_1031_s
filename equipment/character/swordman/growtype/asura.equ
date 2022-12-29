@@ -1,0 +1,27 @@
+#PVF_File
+
+[name]
+	`酒荐扼 傈流 捞棋飘`
+
+[explain]
+	`酒荐扼 傈流 捞棋飘. 救措`
+
+[usable job]
+	`[swordman]`
+[/usable job]
+
+[equipment type]
+	`[coat avatar]`	0
+
+[sub type]
+	0
+
+[attach type]
+	`[trade]`
+
+[layer variation]
+	50
+	`asura`
+
+[equipment ani script]
+	`equipment/character/swordman.lay`

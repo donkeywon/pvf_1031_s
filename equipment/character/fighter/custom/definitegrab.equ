@@ -1,0 +1,30 @@
+#PVF_File
+
+[name]
+	`罐靛矫 棱绰促! 捞棋飘`
+
+[explain]
+	`林冈俊 臂肺快 捞棋飘`
+
+[usable job]
+	`[fighter]`
+[/usable job]
+
+[attach type]
+	`[trade]`
+
+[equipment type]
+	`[coat avatar]`	0
+
+[sub type]
+	0
+
+[variation]
+	0	0
+
+[layer variation]
+	2800
+	`Skill_DefiniteGrab`
+
+[equipment ani script]
+	`equipment/character/fighter.lay`

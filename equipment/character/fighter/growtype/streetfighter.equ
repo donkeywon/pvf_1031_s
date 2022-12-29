@@ -1,0 +1,41 @@
+#PVF_File
+
+[name]
+	`胶飘府飘颇捞磐 傈流 捞棋飘`
+
+[explain]
+	`漠磊惫`
+
+[usable job]
+	`[fighter]`
+	`[at fighter]`
+[/usable job]
+
+[attach type]
+	`[trade]`
+
+[equipment type]
+	`[face avatar]`	0
+
+[sub type]
+	0
+
+[animation job]
+	`[fighter]`
+
+[layer variation]
+	50
+	`streetfighter`
+
+[equipment ani script]
+	`equipment/character/fighter.lay`
+
+[animation job]
+	`[at fighter]`
+
+[layer variation]
+	50
+	`at_streetfighter`
+
+[equipment ani script]
+	`equipment/character/atfighter.lay`

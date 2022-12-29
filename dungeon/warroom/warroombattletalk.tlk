@@ -1,0 +1,204 @@
+#PVF_File
+
+[talk name]
+	`battle start`
+
+[commands]
+	10
+	`[bg appear]`	1
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	20
+	`[left face appear]`	0
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	30
+	`[wait]`	200	40
+	`[message show]`
+	`[text]`	0	1
+	`力 %d柳捞 隔妨可聪促! 葛滴 塞阑 钦媚 利阑 拱府媚 林矫扁 官而聪促.`	50
+	`[wait]`	2000	60
+	`[command disable]`	20	70
+	`[command disable]`	40	80
+	`[left face disappear]`	0
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	90
+	`[command disable]`	10	100
+	`[bg disappear]`	1
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	``	110
+	`[talk end]`
+[/commands]
+
+[talk name]
+	`first battle end`
+
+[commands]
+	10
+	`[bg appear]`	1
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	20
+	`[left face appear]`	0
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	30
+	`[wait]`	200	40
+	`[message show]`
+	`[text]`	0	1
+	`力 %d柳篮 葛滴 拱府闷嚼聪促. 窍瘤父 捞力 矫累老挥涝聪促.`	50
+	`[wait]`	2000	60
+	`[command disable]`	40	70
+	`[command disable]`	50	80
+	`[message show]`
+	`[text]`	0	15
+	`促澜 傈捧甫 霖厚窍绞矫坷. 利甸篮 歹宽歹 竿纺窍霸 嚼拜秦 棵 巴涝聪促.`	90
+	`[wait]`	2000	100
+	`[command disable]`	90	110
+	`[command disable]`	20	120
+	`[left face disappear]`	0
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	130
+	`[command disable]`	10	140
+	`[bg disappear]`	1
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	``	150
+	`[talk end]`
+[/commands]
+
+[talk name]
+	`last battle start`
+
+[commands]
+	10
+	`[bg appear]`	1
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	20
+	`[left face appear]`	0
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	30
+	`[wait]`	200	40
+	`[message show]`
+	`[text]`	0	1
+	`力 %d柳捞 隔妨可聪促! 捞力 利甸狼 弥饶绰 传 菊俊 乐嚼聪促. 炼陛父 歹 塞阑 郴林绞矫坷.`	50
+	`[wait]`	2000	60
+	`[command disable]`	40	70
+	`[command disable]`	50	80
+	`[command disable]`	20	90
+	`[left face disappear]`	0
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	100
+	`[command disable]`	10	110
+	`[bg disappear]`	1
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	``	120
+	`[talk end]`
+[/commands]
+
+[talk name]
+	`result`
+
+[commands]
+	10
+	`[bg appear]`	1
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	20
+	`[left face appear]`	0
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	30
+	`[wait]`	200	40
+	`[message show]`
+	`[text]`	0	0
+	`葛电 利阑 拱府闷嚼聪促. 荐绊窍继嚼聪促.`	50
+	`[wait]`	2000	60
+	`[command disable]`	20	70
+	`[command disable]`	40	80
+	`[left face disappear]`	0
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	90
+	`[command disable]`	10	100
+	`[bg disappear]`	1
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	``	110
+	`[talk end]`
+[/commands]
+
+[talk name]
+	`battlemode`
+
+[commands]
+	10
+	`[bg appear]`	1
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	20
+	`[left face appear]`	0
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	30
+	`[wait]`	200	40
+	`[message show]`
+	`[text]`	0	0
+	`蜡历埃 傍拜捞 啊瓷茄 傈里葛靛肺 傈券茄 葛氰啊啊 惯斑登菌嚼聪促. 林狼窍矫扁 官而聪促.`	50
+	`[wait]`	2000	60
+	`[command disable]`	20	70
+	`[command disable]`	40	80
+	`[left face disappear]`	0
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	90
+	`[command disable]`	10	100
+	`[bg disappear]`	1
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	``	110
+	`[talk end]`
+[/commands]
+
+[talk name]
+	`boss spawn`
+
+[commands]
+	10
+	`[bg appear]`	1
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	20
+	`[left face appear]`	0
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	30
+	`[wait]`	200	40
+	`[message show]`
+	`[text]`	0	0
+	`焊胶 阁胶磐啊 殿厘窍看嚼聪促. 焊胶 阁胶磐绰 碍仿茄 利捞瘤父 弊父怒 歹 腹篮 WP甫 掘阑 荐 乐嚼聪促.`	50
+	`[wait]`	2000	60
+	`[command disable]`	20	70
+	`[command disable]`	40	80
+	`[left face disappear]`	0
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	90
+	`[command disable]`	10	100
+	`[bg disappear]`	1
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	``	110
+	`[talk end]`
+[/commands]
+
+[talk name]
+	`bomb fire`
+
+[commands]
+	10
+	`[bg appear]`	1
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	20
+	`[left face appear]`	0
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	30
+	`[wait]`	200	40
+	`[message show]`
+	`[text]`	0	0
+	`矫埃捞 呈公 瘤眉 登绢, 汲摹秦敌 矫茄 气藕捞 磐脸嚼聪促. WP 老何甫 酪嚼聪促.`	50
+	`[wait]`	2000	60
+	`[command disable]`	20	70
+	`[command disable]`	40	80
+	`[left face disappear]`	0
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	`[pass next command]`	90
+	`[command disable]`	10	100
+	`[bg disappear]`	1
+	`Interface/battleDungeon/battledungeon_battlestep.img`
+	``	110
+	`[talk end]`
+[/commands]

@@ -1,0 +1,38 @@
+#PVF_File
+
+[name]
+	`御前护卫队长潘`
+
+[field name]
+	`御前护卫队长潘`
+
+[field animation]
+	`Animation/Npc_guardian_Captin.ani`
+
+[look around]
+	0
+
+[field wav]
+	`R_NPC_DEFENDER_PAN_LOOP`
+
+[popup wav]
+	`NPC_DEFENDER_TK`
+	`NPC_DEFENDER_TK`
+
+[role]
+	`[item shop]`	65
+	`[dual raid dungeon]`	0
+	`[select channel]`	18
+	`[go to town]`	0
+[/role]
+
+[move town limit str]
+	`必须要达到60级，才可以往根特地区移动。`
+
+[move town confirm str]
+	`要往根特地区移动吗？`
+
+[balloon message]
+	`角氰角肺 涝厘窍芭唱 罢飘肺 倒酒啊绊 酵促搁 郴霸 富阑 吧霸唱..`	5000
+	`坷弗率栏肺 捞悼窍搁 促弗 荤恩甸捞 扁促府绊 乐匙..`	5000
+[/balloon message]
