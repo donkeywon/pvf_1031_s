@@ -40,3 +40,6 @@
 [avatar select ability change]
 	`[all]`
 	`[all]`	2	1
+
+[icon mark]
+	`Item/IconMark.img`	64
