@@ -1,6 +1,6 @@
 increase_damage_rate <- 5 //%
-enable_shoucuo_id < -10001
-EMPTY_SLOT_NUMBER < -0
+enable_shoucuo_id <- 10001
+EMPTY_SLOT_NUMBER <- 0
 
 function setEmptySlotNumber(obj) {
     local id = obj.sq_GetIntData(169, 1);

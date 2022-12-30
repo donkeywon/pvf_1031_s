@@ -3,26 +3,9 @@ function sq_AddFunctionName(appendage) {
     appendage.sq_AddFunctionName("onStart", "onStart_appendage_ComboUi")
     appendage.sq_AddFunctionName("onEnd", "onEnd_appendage_ComboUi")
     appendage.sq_AddFunctionName("onAttackParent", "onAttackParent_appendage_ComboUi")
-    appendage.sq_AddFunctionName("isEnd", "isEnd_appendage_ComboUi")
-    appendage.sq_AddFunctionName("onStartMap", "onStartMap_appendage_ComboUi")
-    appendage.sq_AddFunctionName("onApplyHpDamage", "onApplyHpDamage_appendage_ComboUi")
 }
 
 function sq_AddEffect(appendage) {}
-
-function onStartMap_appendage_ComboUi(appendage) {
-    if (!appendage)
-        return false;
-    local parentObj = appendage.getParent();
-    parentObj = sq_GetCNRDObjectToSQRCharacter(parentObj);
-
-    appendage.getVar("saveWhileRate").clear_vector();
-
-    GLOBAL_CURRENT_DUNGEON_FLAG = 0;
-    onStartMapCharacterEvent(parentObj);
-    setMonsterFristReadWithMapEffect(appendage);
-}
-
 
 function onAttackParent_appendage_ComboUi(appendage, realAttacker, damager, boundingBox, isStuck) {
     if (!damager || !damager.isObjectType(OBJECTTYPE_ACTIVE))
@@ -50,7 +33,6 @@ function onEnd_appendage_ComboUi(appendage) {
 
 function onStart_appendage_ComboUi(appendage) {
     if (!appendage) return;
-
     appendage.getVar("yellowNum").clear_vector();
     appendage.getVar("yellowNum").push_vector(0);
 

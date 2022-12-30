@@ -1,3 +1,14 @@
+function getComboUiAppendage(obj) {
+    return obj.GetSquirrelAppendage("appendage/character/ap_combo_cooltime.nut");
+}
+
+function setCharacterComboUiAppendage(obj) {
+    if (!CNSquirrelAppendage.sq_IsAppendAppendage(obj, "appendage/character/ap_combo_cooltime.nut")) {
+        local appendage = CNSquirrelAppendage.sq_AppendAppendage(obj, obj, SKILL_RESONANCE, false,
+            "appendage/character/ap_combo_cooltime.nut", true);
+    }
+}
+
 function drawCurrentSkillCoolTimeUI(obj) {
     local skillmgr = obj.getSkillManager();
     local apd = getComboUiAppendage(obj);
@@ -154,4 +165,9 @@ function getSirocoUINumber(obj,
         var +".ani");
 
     return numImage;
+}
+
+function drawNewStyleComboUi(obj) {
+    setCharacterComboUiAppendage(obj);
+    drawCurrentSkillCoolTimeUI(obj);
 }
